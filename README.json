@@ -1,0 +1,1663 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libp2p",
+          "description": ". The Rust implementation of the libp2p networking stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T09:06:39Z",
+            "owner": "libp2p",
+            "repo": "rust-libp2p",
+            "stars": 5597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lighthouse",
+          "description": ". Ethereum consensus client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:50:37Z",
+            "owner": "sigp",
+            "repo": "lighthouse",
+            "stars": 3467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grandine",
+          "description": ". High performance Ethereum consensus client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T14:38:13Z",
+            "owner": "grandinetech",
+            "repo": "grandine",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discv5",
+          "description": ". Rust implementation of Discovery v5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:33:59Z",
+            "owner": "sigp",
+            "repo": "discv5",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethereum-consensus",
+          "description": ". A library for interacting with Ethereum consensus objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-18T18:19:42Z",
+            "owner": "ralexstokes",
+            "repo": "ethereum-consensus",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beacon-api-client",
+          "description": ". A client for the Ethereum beacon node APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-09-15T16:26:30Z",
+            "owner": "ralexstokes",
+            "repo": "beacon-api-client",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Consensus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reth",
+          "description": ". Ethereum execution client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T19:01:21Z",
+            "owner": "paradigmxyz",
+            "repo": "reth",
+            "stars": 5740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethrex",
+          "description": ". Lambda Ethereum Rust Execution client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T19:02:51Z",
+            "owner": "lambdaclass",
+            "repo": "ethrex",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akula",
+          "description": ". Ethereum execution client - deprecated.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-11-30T22:24:37Z",
+            "owner": "akula-bft",
+            "repo": "akula",
+            "stars": 787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranger",
+          "description": ". Ranger is an ethereum p2p client capable of interacting with peers without a full node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-06T04:02:24Z",
+            "owner": "Rjected",
+            "repo": "ranger",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "Execution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Revm",
+          "description": ". Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:04:20Z",
+            "owner": "bluealloy",
+            "repo": "revm",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create2crunch",
+          "description": ". A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-07T03:59:52Z",
+            "owner": "0age",
+            "repo": "create2crunch",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pevm",
+          "description": ". Blazingly fast Parallel EVM in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T07:48:29Z",
+            "owner": "risechain",
+            "repo": "pevm",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "revmc",
+          "description": ". JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T09:41:51Z",
+            "owner": "paradigmxyz",
+            "repo": "revmc",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evm-inspectors",
+          "description": ". EVM Execution Hooks for revm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:12:43Z",
+            "owner": "paradigmxyz",
+            "repo": "revm-inspectors",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "balls",
+          "description": ". A DSL for generating optimal EVM bytecode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-05T19:33:59Z",
+            "owner": "Philogy",
+            "repo": "balls",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jitevm",
+          "description": ". Convert evm bytecode to native machine code and go vroom.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-06-20T02:35:51Z",
+            "owner": "paradigmxyz",
+            "repo": "jitevm",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evm-disassembler",
+          "description": ". Rust library to disassemble evm bytecode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-11T15:21:58Z",
+            "owner": "ckoopmann",
+            "repo": "evm-disassembler",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evm_mlir",
+          "description": ". An EVM written with MLIR.",
+          "children": []
+        }
+      ],
+      "title": "EVM - Ethereum Virtual Machine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reth",
+          "description": ". Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T19:01:21Z",
+            "owner": "paradigmxyz",
+            "repo": "reth",
+            "stars": 5740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethers-rs",
+          "description": ". Complete Ethereum library and wallet implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-09-23T10:31:00Z",
+            "owner": "gakonst",
+            "repo": "ethers-rs",
+            "stars": 2512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-web3",
+          "description": ". Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-27T22:16:04Z",
+            "owner": "tomusdrw",
+            "repo": "rust-web3",
+            "stars": 1510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alloy",
+          "description": ". Alloy connects applications to blockchains. Transports, Middleware, and Networks for the Alloy project. Rewrite of ethers-rs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T15:46:31Z",
+            "owner": "alloy-rs",
+            "repo": "alloy",
+            "stars": 1318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alloy core",
+          "description": ". High-performance, well-tested & documented core libraries for Ethereum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T06:52:49Z",
+            "owner": "alloy-rs",
+            "repo": "core",
+            "stars": 963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethers-reth",
+          "description": ". An ether-rs middleware to access reth's db directly, bypassing JSON-RPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-18T18:44:41Z",
+            "owner": "SorellaLabs",
+            "repo": "ethers-reth",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uint",
+          "description": ". Rust Uint crate using const-generics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T17:05:44Z",
+            "owner": "alloy-rs",
+            "repo": "ruint",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trie",
+          "description": ". Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T17:14:49Z",
+            "owner": "alloy-rs",
+            "repo": "trie",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rlp",
+          "description": ". Fast implementation of Ethereum RLP serialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T10:33:32Z",
+            "owner": "alloy-rs",
+            "repo": "rlp",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssz-rs",
+          "description": ". Implementation of Ethereum's ssz.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-04T16:22:37Z",
+            "owner": "ralexstokes",
+            "repo": "ssz-rs",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chains",
+          "description": ". Canonical type definitions for EIP-155 chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T17:06:52Z",
+            "owner": "alloy-rs",
+            "repo": "chains",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enr",
+          "description": ". This crate contains an implementation of an Ethereum Node Record (ENR) as specified by EIP-778.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-29T22:52:25Z",
+            "owner": "sigp",
+            "repo": "enr",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethereum_ssz",
+          "description": ". SimpleSerialize (SSZ) implementation optimised for speed and security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T07:11:58Z",
+            "owner": "sigp",
+            "repo": "ethereum_ssz",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "milhouse",
+          "description": ". Persistent binary merkle tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T08:01:53Z",
+            "owner": "sigp",
+            "repo": "milhouse",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trie-proofs",
+          "description": ". A comprehensive transaction MPT proofs handler for Ethereum / Starknet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-14T11:55:48Z",
+            "owner": "HerodotusDev",
+            "repo": "trie-proofs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eth-trie.rs",
+          "description": ". Rust implementation of the Modified Patricia Tree (aka Trie).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-29T10:33:53Z",
+            "owner": "ethereum",
+            "repo": "eth-trie.rs",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssz_types",
+          "description": ". List, vector and bitfield types for SSZ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-29T17:21:34Z",
+            "owner": "sigp",
+            "repo": "ssz_types",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sszb",
+          "description": ". SSZ with BigEndian notation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-12-06T23:48:31Z",
+            "owner": "rakita",
+            "repo": "sszb",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Core"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Helios",
+          "description": ". A fast, secure, and portable light client for Ethereum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T19:14:25Z",
+            "owner": "a16z",
+            "repo": "helios",
+            "stars": 2175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trin",
+          "description": ". An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-23T12:33:24Z",
+            "owner": "ethereum",
+            "repo": "trin",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sp1-helios",
+          "description": ". On-chain Ethereum light client built with SP1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-14T05:28:09Z",
+            "owner": "succinctlabs",
+            "repo": "sp1-helios",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum zk light client",
+          "description": ". Ethereum zk light client leveraging Sphinx (fork of SP1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-04T00:38:53Z",
+            "owner": "argumentcomputer",
+            "repo": "zk-light-clients",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Light Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "c-kzg-4844",
+          "description": ". Minimal 4844 version of c-kzg (bindings for Rust).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T16:55:58Z",
+            "owner": "ethereum",
+            "repo": "c-kzg-4844",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KZG Ceremony Sequencer",
+          "description": ". This implements KZG Ceremony Specification.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-09-27T01:35:19Z",
+            "owner": "ethereum",
+            "repo": "kzg-ceremony-sequencer",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kzg",
+          "description": ". A library for KZG commitments over BLS12-381 in Rust. Proto-Danksharding Cryptography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-10-05T20:54:54Z",
+            "owner": "ralexstokes",
+            "repo": "kzg",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proto-danksharding-crypto",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-30T07:25:20Z",
+            "owner": "crate-crypto",
+            "repo": "proto-danksharding-crypto",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kateth",
+          "description": ". Ethereum KZG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-11T02:21:33Z",
+            "owner": "jacobkaufmann",
+            "repo": "kateth",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Scaling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Artemis",
+          "description": ". A simple, modular, and fast framework for writing MEV bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-05T03:15:09Z",
+            "owner": "paradigmxyz",
+            "repo": "artemis",
+            "stars": 2959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brontes",
+          "description": ". A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-28T21:24:20Z",
+            "owner": "SorellaLabs",
+            "repo": "brontes",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mev-inspect-rs",
+          "description": ". Discover historic Miner Extractable Value (MEV) opportunities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-11-23T16:14:14Z",
+            "owner": "flashbots",
+            "repo": "mev-inspect-rs",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbuilder",
+          "description": ". rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T04:47:25Z",
+            "owner": "flashbots",
+            "repo": "rbuilder",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mev-rs",
+          "description": ". A gateway to a network of block builders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-24T22:02:49Z",
+            "owner": "ralexstokes",
+            "repo": "mev-rs",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethers-flashbots",
+          "description": ". An Ethers middleware for submitting Flashbots bundles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-06-18T15:20:15Z",
+            "owner": "onbjerg",
+            "repo": "ethers-flashbots",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mev-share-rs",
+          "description": ". Rust client library for Flashbots MEV-share.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-17T14:55:35Z",
+            "owner": "paradigmxyz",
+            "repo": "mev-share-rs",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hindsight",
+          "description": ". Retroactively estimate Uniswap-ish MEV on Flashbots MEV-Share by simulating backrun-arbitrages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-26T07:09:22Z",
+            "owner": "flashbots",
+            "repo": "hindsight",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evangelion",
+          "description": ". A prototype Ethereum block builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-16T03:48:29Z",
+            "owner": "jacobkaufmann",
+            "repo": "evangelion",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "suave-andromeda-revm",
+          "description": ". Andromeda revm execution service - EVM with precompiles used internally by SUAVE for key management and boostrapping kettles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-25T10:40:52Z",
+            "owner": "flashbots",
+            "repo": "suave-andromeda-revm",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "PBS - Proposer-Builder Separation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rundler",
+          "description": ". An ERC-4337 Bundler in Rust - high-performance, modular implementation of an ERC-4337 bundler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:31:22Z",
+            "owner": "alchemyplatform",
+            "repo": "rundler",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silius",
+          "description": ". ERC-4337 (Account Abstraction) - modular and efficient bundler implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-18T21:35:10Z",
+            "owner": "silius-rs",
+            "repo": "silius",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UoIndexer",
+          "description": ". User operation indexer for ERC-4337.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-03T01:41:56Z",
+            "owner": "zsluedem",
+            "repo": "UoIndexer",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethers-userop",
+          "description": ". An ether-rs middleware to craft user operations.",
+          "children": []
+        }
+      ],
+      "title": "Account Abstraction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sp1",
+          "description": ". A performant, 100% open-source, contributor-friendly zkVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:45:38Z",
+            "owner": "succinctlabs",
+            "repo": "sp1",
+            "stars": 1726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noir-lang",
+          "description": ". Noir is a domain specific language for zero knowledge proofs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:32:06Z",
+            "owner": "noir-lang",
+            "repo": "noir",
+            "stars": 1387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zkevm-circuits",
+          "description": ". Circuits for zkEVM.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-07-05T08:44:26Z",
+            "owner": "privacy-ethereum",
+            "repo": "zkevm-circuits",
+            "stars": 821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambdaworks",
+          "description": ". The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T15:36:07Z",
+            "owner": "lambdaclass",
+            "repo": "lambdaworks",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeth",
+          "description": ". A \"Type 0\" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T08:58:08Z",
+            "owner": "boundless-xyz",
+            "repo": "zeth",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVM",
+          "description": ". OpenVM is a performant and modular zkVM framework built for customization and extensibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:42:49Z",
+            "owner": "openvm-org",
+            "repo": "openvm",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo2",
+          "description": ". Implementation of halo2 zkSNARK proof system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-01T09:15:47Z",
+            "owner": "privacy-ethereum",
+            "repo": "halo2",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chiquito",
+          "description": ". DSL for Halo2 circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-11-04T12:25:21Z",
+            "owner": "privacy-ethereum",
+            "repo": "chiquito",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rsp",
+          "description": ". A minimal implementation of ZKPs of Ethereum block execution using Reth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "succinctlabs",
+            "repo": "rsp",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sp1-reth",
+          "description": ". A performant, type-1 zkEVM written in Rust & SP1.",
+          "children": []
+        }
+      ],
+      "title": "ZKP and zkEVM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ress",
+          "description": ". The implementation of Stateless Ethereum client based on Reth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-16T11:46:43Z",
+            "owner": "paradigmxyz",
+            "repo": "ress",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-verkle",
+          "description": ". This is a proof of concept implementation of Verkle Tries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-25T12:55:46Z",
+            "owner": "crate-crypto",
+            "repo": "rust-verkle",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verkle-block-sample",
+          "description": ". Example of a block root with a Verkle state root.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-11-25T16:50:32Z",
+            "owner": "gballet",
+            "repo": "verkle-block-sample",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Statelessness"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Layer 2"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magi",
+          "description": ". A blazing fast OP Stack rollup client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-16T19:28:34Z",
+            "owner": "a16z",
+            "repo": "magi",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "odyssey",
+          "description": ". A testnet open-source Layer 2 from the future, co-designed with the developer tools stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-12T06:26:35Z",
+            "owner": "ithacaxyz",
+            "repo": "odyssey",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kona",
+          "description": ". A suite of components for the OP Stack state transition function.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-01-16T16:44:30Z",
+            "owner": "op-rs",
+            "repo": "kona",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "op-succinct",
+          "description": ". Standalone repo to use Kona & SP1 to verify OP Stack blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:01:49Z",
+            "owner": "succinctlabs",
+            "repo": "op-succinct",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reth AlphaNet",
+          "description": ". Reth AlphaNet is a testnet OP Stack-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-11-24T00:28:27Z",
+            "owner": "paradigmxyz",
+            "repo": "alphanet",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optimism-rs",
+          "description": ". Scaling Ethereum, but this time in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-04-23T22:29:24Z",
+            "owner": "refcell",
+            "repo": "optimism-rs",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "op-alloy",
+          "description": ". Optimism alloy types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-18T14:17:23Z",
+            "owner": "alloy-rs",
+            "repo": "op-alloy",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "op-reth",
+          "description": ". Optimism + Reth.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-08-02T04:13:27Z",
+            "owner": "op-rs",
+            "repo": "op-reth",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cannon-rs",
+          "description": ". An alternative implementation of the OP Stack's Cannon, a MIPS emulator for the EVM.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-07-27T16:13:45Z",
+            "owner": "op-rs",
+            "repo": "cannon-rs",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "op-up",
+          "description": ". Composable OP Stack Orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-11-10T21:38:50Z",
+            "owner": "op-rs",
+            "repo": "op-up",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "durin",
+          "description": ". A Rust library for creating solvers in the OP Stack's dispute protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-01-15T21:16:35Z",
+            "owner": "op-rs",
+            "repo": "durin",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "op-revm",
+          "description": ". Optimism + Revm.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-02-22T00:16:53Z",
+            "owner": "op-rs",
+            "repo": "op-revm",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Optimism"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cairo",
+          "description": ". Cairo is the first Turing-complete language for creating provable programs for general computation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:31:08Z",
+            "owner": "starkware-libs",
+            "repo": "cairo",
+            "stars": 1900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Madara",
+          "description": ". Madara is a blazing fast Starknet sequencer, based on substrate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T01:25:20Z",
+            "owner": "AbdelStark",
+            "repo": "madara",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starknet Foundry",
+          "description": ". Blazing fast toolkit for developing Starknet contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:38:43Z",
+            "owner": "foundry-rs",
+            "repo": "starknet-foundry",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papyrus",
+          "description": ". Papyrus is a Starknet full node written.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-12-26T13:52:22Z",
+            "owner": "starkware-libs",
+            "repo": "papyrus",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starknet-rs",
+          "description": ". Complete Starknet library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-09T16:07:25Z",
+            "owner": "xJonathanLEI",
+            "repo": "starknet-rs",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stone Prover",
+          "description": ". Stone prover - this repository contains a prover and a verifier for STARKs, and in particular for the CPU AIR underlying the CairoZero programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-16T13:22:55Z",
+            "owner": "starkware-libs",
+            "repo": "stone-prover",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starknet_in_rust",
+          "description": ". A Rust implementation of Starknet execution logic.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-07-22T22:03:21Z",
+            "owner": "lambdaclass",
+            "repo": "starknet_in_rust",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cairo_native",
+          "description": ". A compiler to convert Cairo's intermediate representation \"Sierra\" code to MLIR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:37:55Z",
+            "owner": "starkware-libs",
+            "repo": "cairo_native",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "types-rs",
+          "description": ". Starknet Rust types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-02T18:41:09Z",
+            "owner": "starknet-io",
+            "repo": "types-rs",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cairo-vm",
+          "description": ". cairo-vm is a Rust implementation of the Cairo VM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-09T13:19:44Z",
+            "owner": "lambdaclass",
+            "repo": "cairo-vm",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Starknet"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zksync-era",
+          "description": ". zkSync era.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T09:05:07Z",
+            "owner": "matter-labs",
+            "repo": "zksync-era",
+            "stars": 3238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "era-sync_vm",
+          "description": ". Circuit Implementation of zkVM for zkSync Era.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-12-04T17:57:51Z",
+            "owner": "matter-labs",
+            "repo": "era-sync_vm",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "era_vm",
+          "description": ". EraVM implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-05T19:44:38Z",
+            "owner": "lambdaclass",
+            "repo": "era_vm",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "zkSync"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sway",
+          "description": ". Sway is a language developed for the Fuel blockchain. It is heavily inspired by Rust and aims to bring modern language development and performance to the blockchain ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:55:16Z",
+            "owner": "FuelLabs",
+            "repo": "sway",
+            "stars": 61513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuel-core",
+          "description": ". Rust full node implementation of the Fuel v2 protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T16:13:44Z",
+            "owner": "FuelLabs",
+            "repo": "fuel-core",
+            "stars": 56915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuels-rs",
+          "description": ". Rust SDK for Fuel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-29T14:14:40Z",
+            "owner": "FuelLabs",
+            "repo": "fuels-rs",
+            "stars": 43075
+          }
+        }
+      ],
+      "title": "Fuel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Foundry",
+          "description": ". Foundry is a blazing fast, portable and modular toolkit for Ethereum application development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:52:00Z",
+            "owner": "foundry-rs",
+            "repo": "foundry",
+            "stars": 10558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rivet",
+          "description": ". Developer Wallet & DevTools for Anvil.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-26T09:30:38Z",
+            "owner": "paradigmxyz",
+            "repo": "rivet",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solar",
+          "description": ". Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T19:10:03Z",
+            "owner": "paradigmxyz",
+            "repo": "solar",
+            "stars": 555
+          }
+        }
+      ],
+      "title": "dApp Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fe",
+          "description": ". Emerging smart contract language for the Ethereum blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T16:21:07Z",
+            "owner": "argotorg",
+            "repo": "fe",
+            "stars": 1727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heimdall",
+          "description": ". Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T20:35:15Z",
+            "owner": "Jon-Becker",
+            "repo": "heimdall-rs",
+            "stars": 1598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyrometer",
+          "description": ". A tool for analyzing the security and parameters of a solidity smart contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-14T15:41:16Z",
+            "owner": "nascentxyz",
+            "repo": "pyrometer",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huff-rs",
+          "description": ". A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-10-20T22:37:52Z",
+            "owner": "huff-language",
+            "repo": "huff-rs",
+            "stars": 596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethabi",
+          "description": ". Encode and decode smart contract invocations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-16T17:41:09Z",
+            "owner": "rust-ethereum",
+            "repo": "ethabi",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svm-rs",
+          "description": ". Solidity-Compiler Version Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T17:05:06Z",
+            "owner": "alloy-rs",
+            "repo": "svm-rs",
+            "stars": 287
+          }
+        }
+      ],
+      "title": "Smart Contracts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cryo",
+          "description": ". cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-08T07:31:22Z",
+            "owner": "paradigmxyz",
+            "repo": "cryo",
+            "stars": 1579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethshadow",
+          "description": ". Simulate a full Ethereum network using Shadow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-12T08:40:12Z",
+            "owner": "ethereum",
+            "repo": "ethshadow",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Analytics"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:15:34.968Z",
+    "original_repository": "Vid201/awesome-ethereum-rust",
+    "original_repository_sha": "f7952026ef2c890e3a1ec1c104e6bfc611b7dbd9",
+    "enhanced_repository": "enhansome/enhansome-ethereum-rust",
+    "enhanced_repository_description": null,
+    "title": "awesome-ethereum-rust with stars"
+  }
+}
