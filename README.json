@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86106381,
             "language": "Rust",
             "last_commit": "2026-08-17T12:16:45Z",
             "owner": "libp2p",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139952333,
             "language": "Rust",
-            "last_commit": "2026-08-18T18:43:06Z",
+            "last_commit": "2026-08-19T10:47:39Z",
             "owner": "sigp",
             "repo": "lighthouse",
             "stars": 3467
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381346344,
             "language": "Rust",
             "last_commit": "2026-08-18T13:38:59Z",
             "owner": "grandinetech",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259225761,
             "language": "Rust",
             "last_commit": "2026-08-03T08:33:59Z",
             "owner": "sigp",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422157724,
             "language": "Rust",
             "last_commit": "2025-07-18T18:19:42Z",
             "owner": "ralexstokes",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 488659302,
             "language": "Rust",
             "last_commit": "2023-09-15T16:26:30Z",
             "owner": "ralexstokes",
@@ -91,7 +97,7 @@
       "title": "Consensus"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537233603,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:56:14Z",
+            "last_commit": "2026-08-19T12:20:59Z",
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5742
+            "stars": 5741
           }
         },
         {
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 808266543,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:47:48Z",
+            "last_commit": "2026-08-19T01:00:25Z",
             "owner": "lambdaclass",
             "repo": "ethrex",
-            "stars": 888
+            "stars": 887
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 327140372,
             "language": "Rust",
             "last_commit": "2022-11-30T22:24:37Z",
             "owner": "akula-bft",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473713758,
             "language": "Rust",
             "last_commit": "2023-04-06T04:02:24Z",
             "owner": "Rjected",
@@ -153,7 +163,7 @@
       "title": "Execution"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,8 +172,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411607920,
             "language": "Rust",
-            "last_commit": "2026-08-18T13:57:49Z",
+            "last_commit": "2026-08-19T10:04:49Z",
             "owner": "bluealloy",
             "repo": "revm",
             "stars": 2221
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165302802,
             "language": "Rust",
             "last_commit": "2024-08-07T03:59:52Z",
             "owner": "0age",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 782305231,
             "language": "Rust",
             "last_commit": "2026-08-05T07:48:29Z",
             "owner": "risechain",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 769994886,
             "language": "Rust",
             "last_commit": "2026-08-10T09:41:51Z",
             "owner": "paradigmxyz",
@@ -218,8 +232,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722336953,
             "language": "Rust",
-            "last_commit": "2026-08-12T16:12:43Z",
+            "last_commit": "2026-08-19T06:23:37Z",
             "owner": "paradigmxyz",
             "repo": "revm-inspectors",
             "stars": 255
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 743627169,
             "language": "Rust",
             "last_commit": "2024-11-05T19:33:59Z",
             "owner": "Philogy",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 671600200,
             "language": "Rust",
             "last_commit": "2024-06-20T02:35:51Z",
             "owner": "paradigmxyz",
@@ -260,24 +277,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611102138,
             "language": "Rust",
             "last_commit": "2026-01-11T15:21:58Z",
             "owner": "ckoopmann",
             "repo": "evm-disassembler",
             "stars": 24
           }
-        },
-        {
-          "node_type": "item",
-          "title": "evm_mlir",
-          "description": ". An EVM written with MLIR.",
-          "children": []
         }
       ],
       "title": "EVM - Ethereum Virtual Machine"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -286,11 +298,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537233603,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:56:14Z",
+            "last_commit": "2026-08-19T12:20:59Z",
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5742
+            "stars": 5741
           }
         },
         {
@@ -300,11 +313,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 266602341,
             "language": "Rust",
             "last_commit": "2024-09-23T10:31:00Z",
             "owner": "gakonst",
             "repo": "ethers-rs",
-            "stars": 2510
+            "stars": 2509
           }
         },
         {
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77491041,
             "language": "Rust",
             "last_commit": "2026-04-27T22:16:04Z",
             "owner": "tomusdrw",
@@ -328,11 +343,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629243152,
             "language": "Rust",
             "last_commit": "2026-08-17T09:23:46Z",
             "owner": "alloy-rs",
             "repo": "alloy",
-            "stars": 1321
+            "stars": 1323
           }
         },
         {
@@ -342,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615421431,
             "language": "Rust",
             "last_commit": "2026-08-17T13:10:22Z",
             "owner": "alloy-rs",
@@ -356,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640577736,
             "language": "Rust",
             "last_commit": "2023-10-18T18:44:41Z",
             "owner": "SorellaLabs",
@@ -370,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492059643,
             "language": "Rust",
             "last_commit": "2026-08-17T11:03:53Z",
             "owner": "alloy-rs",
@@ -384,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 733152007,
             "language": "Rust",
             "last_commit": "2026-08-17T11:06:24Z",
             "owner": "alloy-rs",
@@ -398,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665456718,
             "language": "Rust",
             "last_commit": "2026-08-17T09:39:31Z",
             "owner": "alloy-rs",
@@ -412,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371858646,
             "language": "Rust",
             "last_commit": "2024-10-04T16:22:37Z",
             "owner": "ralexstokes",
@@ -426,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694761240,
             "language": "Rust",
             "last_commit": "2026-08-17T09:39:02Z",
             "owner": "alloy-rs",
@@ -440,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521089251,
             "language": "Rust",
             "last_commit": "2025-09-29T22:52:25Z",
             "owner": "sigp",
@@ -454,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581029794,
             "language": "Rust",
             "last_commit": "2026-07-20T07:11:58Z",
             "owner": "sigp",
@@ -468,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430028842,
             "language": "Rust",
             "last_commit": "2026-08-17T02:16:27Z",
             "owner": "sigp",
@@ -482,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 773924473,
             "language": "Rust",
             "last_commit": "2025-10-14T11:55:48Z",
             "owner": "HerodotusDev",
@@ -496,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 852483034,
             "language": "Rust",
             "last_commit": "2025-06-29T10:33:53Z",
             "owner": "ethereum",
@@ -510,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589445322,
             "language": "Rust",
             "last_commit": "2026-06-29T17:21:34Z",
             "owner": "sigp",
@@ -524,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435682612,
             "language": "Rust",
             "last_commit": "2021-12-06T23:48:31Z",
             "owner": "rakita",
@@ -535,7 +565,7 @@
       "title": "Core"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -544,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523436104,
             "language": "Rust",
             "last_commit": "2026-06-26T19:14:25Z",
             "owner": "a16z",
@@ -558,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338460624,
             "language": "Rust",
             "last_commit": "2025-09-23T12:33:24Z",
             "owner": "ethereum",
@@ -572,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 820097438,
             "language": "Rust",
             "last_commit": "2026-07-14T05:28:09Z",
             "owner": "succinctlabs",
@@ -586,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 813668119,
             "language": "Rust",
             "last_commit": "2024-12-04T00:38:53Z",
             "owner": "argumentcomputer",
@@ -597,7 +631,7 @@
       "title": "Light Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -606,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567729203,
             "language": "C",
             "last_commit": "2026-08-11T16:55:58Z",
             "owner": "ethereum",
@@ -620,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 534738043,
             "language": "Rust",
             "last_commit": "2023-09-27T01:35:19Z",
             "owner": "ethereum",
@@ -634,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334315358,
             "language": "Rust",
             "last_commit": "2022-10-05T20:54:54Z",
             "owner": "ralexstokes",
@@ -648,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544128672,
             "language": "Rust",
             "last_commit": "2023-03-30T07:25:20Z",
             "owner": "crate-crypto",
@@ -662,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 712581983,
             "language": "Rust",
             "last_commit": "2024-04-11T02:21:33Z",
             "owner": "jacobkaufmann",
@@ -673,7 +712,7 @@
       "title": "Scaling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -682,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 632643862,
             "language": "Rust",
             "last_commit": "2024-03-05T03:15:09Z",
             "owner": "paradigmxyz",
@@ -696,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665108503,
             "language": "Rust",
             "last_commit": "2025-07-28T21:24:20Z",
             "owner": "SorellaLabs",
@@ -710,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 311103802,
             "language": "Rust",
             "last_commit": "2022-11-23T16:14:14Z",
             "owner": "flashbots",
@@ -724,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 822453964,
             "language": "Rust",
             "last_commit": "2026-07-20T04:47:25Z",
             "owner": "flashbots",
@@ -738,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489400079,
             "language": "Rust",
             "last_commit": "2024-10-24T22:02:49Z",
             "owner": "ralexstokes",
@@ -752,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 396508865,
             "language": "Rust",
             "last_commit": "2024-06-18T15:20:15Z",
             "owner": "onbjerg",
@@ -766,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631616177,
             "language": "Rust",
             "last_commit": "2025-05-17T14:55:35Z",
             "owner": "paradigmxyz",
@@ -780,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661497043,
             "language": "Rust",
             "last_commit": "2024-04-26T07:09:22Z",
             "owner": "flashbots",
@@ -794,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 664477091,
             "language": "Rust",
             "last_commit": "2023-09-16T03:48:29Z",
             "owner": "jacobkaufmann",
@@ -808,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 745584530,
             "language": "Rust",
             "last_commit": "2024-07-25T10:40:52Z",
             "owner": "flashbots",
@@ -819,7 +868,7 @@
       "title": "PBS - Proposer-Builder Separation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -828,8 +877,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597939974,
             "language": "Rust",
-            "last_commit": "2026-08-18T18:16:25Z",
+            "last_commit": "2026-08-18T20:02:47Z",
             "owner": "alchemyplatform",
             "repo": "rundler",
             "stars": 390
@@ -842,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 555758437,
             "language": "Rust",
             "last_commit": "2025-08-18T21:35:10Z",
             "owner": "silius-rs",
@@ -856,24 +907,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633783997,
             "language": "Rust",
             "last_commit": "2023-05-03T01:41:56Z",
             "owner": "zsluedem",
             "repo": "UoIndexer",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ethers-userop",
-          "description": ". An ether-rs middleware to craft user operations.",
-          "children": []
         }
       ],
       "title": "Account Abstraction"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -882,11 +928,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727489129,
             "language": "Rust",
-            "last_commit": "2026-08-18T00:04:52Z",
+            "last_commit": "2026-08-18T22:08:07Z",
             "owner": "succinctlabs",
             "repo": "sp1",
-            "stars": 1727
+            "stars": 1729
           }
         },
         {
@@ -896,11 +943,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285004577,
             "language": "Rust",
-            "last_commit": "2026-08-18T18:50:51Z",
+            "last_commit": "2026-08-19T12:25:24Z",
             "owner": "noir-lang",
             "repo": "noir",
-            "stars": 1390
+            "stars": 1391
           }
         },
         {
@@ -910,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 380947649,
             "language": "Rust",
             "last_commit": "2024-07-05T08:44:26Z",
             "owner": "privacy-ethereum",
@@ -924,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589580952,
             "language": "Rust",
             "last_commit": "2026-08-14T21:18:41Z",
             "owner": "lambdaclass",
@@ -938,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673538066,
             "language": "Rust",
             "last_commit": "2026-07-17T08:58:08Z",
             "owner": "boundless-xyz",
@@ -952,8 +1003,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 793399480,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:19:17Z",
+            "last_commit": "2026-08-18T19:45:06Z",
             "owner": "openvm-org",
             "repo": "openvm",
             "stars": 393
@@ -966,6 +1018,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 417466633,
             "language": "Rust",
             "last_commit": "2026-07-01T09:15:47Z",
             "owner": "privacy-ethereum",
@@ -980,6 +1033,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 619376836,
             "language": "Rust",
             "last_commit": "2024-11-04T12:25:21Z",
             "owner": "privacy-ethereum",
@@ -994,24 +1048,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828710472,
             "language": "Rust",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "succinctlabs",
             "repo": "rsp",
             "stars": 164
           }
-        },
-        {
-          "node_type": "item",
-          "title": "sp1-reth",
-          "description": ". A performant, type-1 zkEVM written in Rust & SP1.",
-          "children": []
         }
       ],
       "title": "ZKP and zkEVM"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1020,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 904294304,
             "language": "Rust",
             "last_commit": "2025-04-16T11:46:43Z",
             "owner": "paradigmxyz",
@@ -1034,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350071796,
             "language": "Rust",
             "last_commit": "2024-10-25T12:55:46Z",
             "owner": "crate-crypto",
@@ -1048,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450756891,
             "language": "Rust",
             "last_commit": "2022-11-25T16:50:32Z",
             "owner": "gballet",
@@ -1059,428 +1111,461 @@
       "title": "Statelessness"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Magi",
+              "description": ". A blazing fast OP Stack rollup client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601867299,
+                "language": "Rust",
+                "last_commit": "2024-08-16T19:28:34Z",
+                "owner": "a16z",
+                "repo": "magi",
+                "stars": 637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "odyssey",
+              "description": ". A testnet open-source Layer 2 from the future, co-designed with the developer tools stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 871007590,
+                "language": "Rust",
+                "last_commit": "2025-07-12T06:26:35Z",
+                "owner": "ithacaxyz",
+                "repo": "odyssey",
+                "stars": 316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kona",
+              "description": ". A suite of components for the OP Stack state transition function.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 722878666,
+                "language": "Rust",
+                "last_commit": "2026-01-16T16:44:30Z",
+                "owner": "op-rs",
+                "repo": "kona",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "op-succinct",
+              "description": ". Standalone repo to use Kona & SP1 to verify OP Stack blocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811064036,
+                "language": "Rust",
+                "last_commit": "2026-08-17T12:56:22Z",
+                "owner": "succinctlabs",
+                "repo": "op-succinct",
+                "stars": 214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reth AlphaNet",
+              "description": ". Reth AlphaNet is a testnet OP Stack-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 765376485,
+                "language": "Rust",
+                "last_commit": "2024-11-24T00:28:27Z",
+                "owner": "paradigmxyz",
+                "repo": "alphanet",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "optimism-rs",
+              "description": ". Scaling Ethereum, but this time in rust.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 631610272,
+                "language": null,
+                "last_commit": "2023-04-23T22:29:24Z",
+                "owner": "refcell",
+                "repo": "optimism-rs",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "op-alloy",
+              "description": ". Optimism alloy types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 782704052,
+                "language": "Rust",
+                "last_commit": "2026-02-18T14:17:23Z",
+                "owner": "alloy-rs",
+                "repo": "op-alloy",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "op-reth",
+              "description": ". Optimism + Reth.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 599745356,
+                "language": "Rust",
+                "last_commit": "2026-08-02T04:13:27Z",
+                "owner": "op-rs",
+                "repo": "op-reth",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cannon-rs",
+              "description": ". An alternative implementation of the OP Stack's Cannon, a MIPS emulator for the EVM.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 690858446,
+                "language": "Rust",
+                "last_commit": "2024-07-27T16:13:45Z",
+                "owner": "op-rs",
+                "repo": "cannon-rs",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "op-up",
+              "description": ". Composable OP Stack Orchestration.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 648712246,
+                "language": "Rust",
+                "last_commit": "2023-11-10T21:38:50Z",
+                "owner": "op-rs",
+                "repo": "op-up",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "durin",
+              "description": ". A Rust library for creating solvers in the OP Stack's dispute protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 689143287,
+                "language": "Rust",
+                "last_commit": "2024-01-15T21:16:35Z",
+                "owner": "op-rs",
+                "repo": "durin",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "op-revm",
+              "description": ". Optimism + Revm.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 681482008,
+                "language": "Rust",
+                "last_commit": "2024-02-22T00:16:53Z",
+                "owner": "op-rs",
+                "repo": "op-revm",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Optimism"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cairo",
+              "description": ". Cairo is the first Turing-complete language for creating provable programs for general computation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494059063,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:35:51Z",
+                "owner": "starkware-libs",
+                "repo": "cairo",
+                "stars": 1902
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Madara",
+              "description": ". Madara is a blazing fast Starknet sequencer, based on substrate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599979944,
+                "language": "Rust",
+                "last_commit": "2026-08-16T01:07:06Z",
+                "owner": "AbdelStark",
+                "repo": "madara",
+                "stars": 524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Starknet Foundry",
+              "description": ". Blazing fast toolkit for developing Starknet contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662788006,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:04:17Z",
+                "owner": "foundry-rs",
+                "repo": "starknet-foundry",
+                "stars": 393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Papyrus",
+              "description": ". Papyrus is a Starknet full node written.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 490190929,
+                "language": "Rust",
+                "last_commit": "2024-12-26T13:52:22Z",
+                "owner": "starkware-libs",
+                "repo": "papyrus",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "starknet-rs",
+              "description": ". Complete Starknet library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434233934,
+                "language": "Rust",
+                "last_commit": "2025-11-09T16:07:25Z",
+                "owner": "xJonathanLEI",
+                "repo": "starknet-rs",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stone Prover",
+              "description": ". Stone prover - this repository contains a prover and a verifier for STARKs, and in particular for the CPU AIR underlying the CairoZero programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 682077767,
+                "language": "C++",
+                "last_commit": "2024-09-16T13:22:55Z",
+                "owner": "starkware-libs",
+                "repo": "stone-prover",
+                "stars": 268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "starknet_in_rust",
+              "description": ". A Rust implementation of Starknet execution logic.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 574632352,
+                "language": "Rust",
+                "last_commit": "2024-07-22T22:03:21Z",
+                "owner": "lambdaclass",
+                "repo": "starknet_in_rust",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cairo_native",
+              "description": ". A compiler to convert Cairo's intermediate representation \"Sierra\" code to MLIR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609222523,
+                "language": "Rust",
+                "last_commit": "2026-08-18T15:39:28Z",
+                "owner": "starkware-libs",
+                "repo": "cairo_native",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "types-rs",
+              "description": ". Starknet Rust types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645208755,
+                "language": "Rust",
+                "last_commit": "2025-12-02T18:41:09Z",
+                "owner": "starknet-io",
+                "repo": "types-rs",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cairo-vm",
+              "description": ". cairo-vm is a Rust implementation of the Cairo VM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191947332,
+                "language": "Rust",
+                "last_commit": "2026-04-09T13:19:44Z",
+                "owner": "lambdaclass",
+                "repo": "cairo-vm",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Starknet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zksync-era",
+              "description": ". zkSync era.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601974648,
+                "language": "Rust",
+                "last_commit": "2026-08-08T09:05:07Z",
+                "owner": "matter-labs",
+                "repo": "zksync-era",
+                "stars": 3236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "era-sync_vm",
+              "description": ". Circuit Implementation of zkVM for zkSync Era.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 601948222,
+                "language": "Rust",
+                "last_commit": "2023-12-04T17:57:51Z",
+                "owner": "matter-labs",
+                "repo": "era-sync_vm",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "era_vm",
+              "description": ". EraVM implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812043694,
+                "language": "Rust",
+                "last_commit": "2024-09-05T19:44:38Z",
+                "owner": "lambdaclass",
+                "repo": "era_vm",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "zkSync"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sway",
+              "description": ". Sway is a language developed for the Fuel blockchain. It is heavily inspired by Rust and aims to bring modern language development and performance to the blockchain ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331107018,
+                "language": "Rust",
+                "last_commit": "2026-08-14T14:48:39Z",
+                "owner": "FuelLabs",
+                "repo": "sway",
+                "stars": 61499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fuel-core",
+              "description": ". Rust full node implementation of the Fuel v2 protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290882787,
+                "language": "Rust",
+                "last_commit": "2026-08-18T21:15:18Z",
+                "owner": "FuelLabs",
+                "repo": "fuel-core",
+                "stars": 56900
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fuels-rs",
+              "description": ". Rust SDK for Fuel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423275200,
+                "language": "Rust",
+                "last_commit": "2026-06-29T14:14:40Z",
+                "owner": "FuelLabs",
+                "repo": "fuels-rs",
+                "stars": 43067
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fuel"
+        }
+      ],
       "title": "Layer 2"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Magi",
-          "description": ". A blazing fast OP Stack rollup client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-16T19:28:34Z",
-            "owner": "a16z",
-            "repo": "magi",
-            "stars": 637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "odyssey",
-          "description": ". A testnet open-source Layer 2 from the future, co-designed with the developer tools stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-07-12T06:26:35Z",
-            "owner": "ithacaxyz",
-            "repo": "odyssey",
-            "stars": 316
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kona",
-          "description": ". A suite of components for the OP Stack state transition function.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2026-01-16T16:44:30Z",
-            "owner": "op-rs",
-            "repo": "kona",
-            "stars": 290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "op-succinct",
-          "description": ". Standalone repo to use Kona & SP1 to verify OP Stack blocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T12:56:22Z",
-            "owner": "succinctlabs",
-            "repo": "op-succinct",
-            "stars": 214
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reth AlphaNet",
-          "description": ". Reth AlphaNet is a testnet OP Stack-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-11-24T00:28:27Z",
-            "owner": "paradigmxyz",
-            "repo": "alphanet",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "optimism-rs",
-          "description": ". Scaling Ethereum, but this time in rust.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-04-23T22:29:24Z",
-            "owner": "refcell",
-            "repo": "optimism-rs",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "op-alloy",
-          "description": ". Optimism alloy types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-18T14:17:23Z",
-            "owner": "alloy-rs",
-            "repo": "op-alloy",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "op-reth",
-          "description": ". Optimism + Reth.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2026-08-02T04:13:27Z",
-            "owner": "op-rs",
-            "repo": "op-reth",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cannon-rs",
-          "description": ". An alternative implementation of the OP Stack's Cannon, a MIPS emulator for the EVM.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-07-27T16:13:45Z",
-            "owner": "op-rs",
-            "repo": "cannon-rs",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "op-up",
-          "description": ". Composable OP Stack Orchestration.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2023-11-10T21:38:50Z",
-            "owner": "op-rs",
-            "repo": "op-up",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "durin",
-          "description": ". A Rust library for creating solvers in the OP Stack's dispute protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-01-15T21:16:35Z",
-            "owner": "op-rs",
-            "repo": "durin",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "op-revm",
-          "description": ". Optimism + Revm.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-02-22T00:16:53Z",
-            "owner": "op-rs",
-            "repo": "op-revm",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Optimism"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cairo",
-          "description": ". Cairo is the first Turing-complete language for creating provable programs for general computation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:31:49Z",
-            "owner": "starkware-libs",
-            "repo": "cairo",
-            "stars": 1902
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Madara",
-          "description": ". Madara is a blazing fast Starknet sequencer, based on substrate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T01:07:06Z",
-            "owner": "AbdelStark",
-            "repo": "madara",
-            "stars": 524
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Starknet Foundry",
-          "description": ". Blazing fast toolkit for developing Starknet contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T13:39:10Z",
-            "owner": "foundry-rs",
-            "repo": "starknet-foundry",
-            "stars": 393
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Papyrus",
-          "description": ". Papyrus is a Starknet full node written.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-12-26T13:52:22Z",
-            "owner": "starkware-libs",
-            "repo": "papyrus",
-            "stars": 323
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "starknet-rs",
-          "description": ". Complete Starknet library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-09T16:07:25Z",
-            "owner": "xJonathanLEI",
-            "repo": "starknet-rs",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stone Prover",
-          "description": ". Stone prover - this repository contains a prover and a verifier for STARKs, and in particular for the CPU AIR underlying the CairoZero programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-09-16T13:22:55Z",
-            "owner": "starkware-libs",
-            "repo": "stone-prover",
-            "stars": 268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "starknet_in_rust",
-          "description": ". A Rust implementation of Starknet execution logic.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-07-22T22:03:21Z",
-            "owner": "lambdaclass",
-            "repo": "starknet_in_rust",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cairo_native",
-          "description": ". A compiler to convert Cairo's intermediate representation \"Sierra\" code to MLIR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T15:39:28Z",
-            "owner": "starkware-libs",
-            "repo": "cairo_native",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "types-rs",
-          "description": ". Starknet Rust types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-02T18:41:09Z",
-            "owner": "starknet-io",
-            "repo": "types-rs",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cairo-vm",
-          "description": ". cairo-vm is a Rust implementation of the Cairo VM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-09T13:19:44Z",
-            "owner": "lambdaclass",
-            "repo": "cairo-vm",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Starknet"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zksync-era",
-          "description": ". zkSync era.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-08T09:05:07Z",
-            "owner": "matter-labs",
-            "repo": "zksync-era",
-            "stars": 3236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "era-sync_vm",
-          "description": ". Circuit Implementation of zkVM for zkSync Era.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2023-12-04T17:57:51Z",
-            "owner": "matter-labs",
-            "repo": "era-sync_vm",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "era_vm",
-          "description": ". EraVM implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-09-05T19:44:38Z",
-            "owner": "lambdaclass",
-            "repo": "era_vm",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "zkSync"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sway",
-          "description": ". Sway is a language developed for the Fuel blockchain. It is heavily inspired by Rust and aims to bring modern language development and performance to the blockchain ecosystem.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T14:48:39Z",
-            "owner": "FuelLabs",
-            "repo": "sway",
-            "stars": 61499
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fuel-core",
-          "description": ". Rust full node implementation of the Fuel v2 protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T18:13:52Z",
-            "owner": "FuelLabs",
-            "repo": "fuel-core",
-            "stars": 56900
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fuels-rs",
-          "description": ". Rust SDK for Fuel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-29T14:14:40Z",
-            "owner": "FuelLabs",
-            "repo": "fuels-rs",
-            "stars": 43067
-          }
-        }
-      ],
-      "title": "Fuel"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1489,11 +1574,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-18T18:32:54Z",
+            "last_commit": "2026-08-19T12:24:04Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10570
+            "stars": 10568
           }
         },
         {
@@ -1503,6 +1589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 681833520,
             "language": "TypeScript",
             "last_commit": "2025-03-26T09:30:38Z",
             "owner": "paradigmxyz",
@@ -1517,8 +1604,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631030757,
             "language": "Rust",
-            "last_commit": "2026-08-18T12:01:40Z",
+            "last_commit": "2026-08-19T11:54:57Z",
             "owner": "paradigmxyz",
             "repo": "solar",
             "stars": 555
@@ -1528,7 +1616,7 @@
       "title": "dApp Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1537,6 +1625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201584176,
             "language": "Rust",
             "last_commit": "2026-08-01T16:21:07Z",
             "owner": "argotorg",
@@ -1551,11 +1640,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499880203,
             "language": "Rust",
             "last_commit": "2026-08-16T00:09:09Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1599
+            "stars": 1600
           }
         },
         {
@@ -1565,6 +1655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586608936,
             "language": "Rust",
             "last_commit": "2025-02-14T15:41:16Z",
             "owner": "nascentxyz",
@@ -1579,6 +1670,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 498320188,
             "language": "Rust",
             "last_commit": "2024-10-20T22:37:52Z",
             "owner": "huff-language",
@@ -1593,6 +1685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57925247,
             "language": "Rust",
             "last_commit": "2023-08-16T17:41:09Z",
             "owner": "rust-ethereum",
@@ -1607,6 +1700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405391042,
             "language": "Rust",
             "last_commit": "2026-08-17T11:04:00Z",
             "owner": "alloy-rs",
@@ -1618,7 +1712,7 @@
       "title": "Smart Contracts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1627,6 +1721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658996666,
             "language": "Rust",
             "last_commit": "2025-01-08T07:31:22Z",
             "owner": "paradigmxyz",
@@ -1641,6 +1736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587165894,
             "language": "Rust",
             "last_commit": "2025-03-12T08:40:12Z",
             "owner": "ethereum",
@@ -1653,8 +1749,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:51:48.537Z",
+    "last_updated": "2026-08-19T12:26:15.571Z",
     "original_repository": "Vid201/awesome-ethereum-rust",
+    "original_repository_id": 689443588,
     "original_repository_sha": "f7952026ef2c890e3a1ec1c104e6bfc611b7dbd9",
     "enhanced_repository": "enhansome/enhansome-ethereum-rust",
     "enhanced_repository_description": null,
