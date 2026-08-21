@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T12:16:45Z",
             "owner": "libp2p",
             "repo": "rust-libp2p",
-            "stars": 5603
+            "stars": 5606
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 139952333,
             "language": "Rust",
-            "last_commit": "2026-08-20T17:50:06Z",
+            "last_commit": "2026-08-21T15:07:45Z",
             "owner": "sigp",
             "repo": "lighthouse",
             "stars": 3468
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 381346344,
             "language": "Rust",
-            "last_commit": "2026-08-20T13:50:18Z",
+            "last_commit": "2026-08-21T15:52:03Z",
             "owner": "grandinetech",
             "repo": "grandine",
             "stars": 275
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 537233603,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:47:05Z",
+            "last_commit": "2026-08-21T15:06:43Z",
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5742
+            "stars": 5744
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 808266543,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:47:54Z",
+            "last_commit": "2026-08-21T18:33:00Z",
             "owner": "lambdaclass",
             "repo": "ethrex",
-            "stars": 887
+            "stars": 888
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-10T09:41:51Z",
             "owner": "paradigmxyz",
             "repo": "revmc",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-19T23:15:40Z",
             "owner": "paradigmxyz",
             "repo": "revm-inspectors",
-            "stars": 255
+            "stars": 254
           }
         },
         {
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 537233603,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:47:05Z",
+            "last_commit": "2026-08-21T15:06:43Z",
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5742
+            "stars": 5744
           }
         },
         {
@@ -345,10 +345,10 @@
             "archived": false,
             "id": 629243152,
             "language": "Rust",
-            "last_commit": "2026-08-19T21:40:16Z",
+            "last_commit": "2026-08-21T07:55:34Z",
             "owner": "alloy-rs",
             "repo": "alloy",
-            "stars": 1322
+            "stars": 1321
           }
         },
         {
@@ -360,7 +360,7 @@
             "archived": false,
             "id": 615421431,
             "language": "Rust",
-            "last_commit": "2026-08-20T10:48:22Z",
+            "last_commit": "2026-08-21T12:59:08Z",
             "owner": "alloy-rs",
             "repo": "core",
             "stars": 963
@@ -726,7 +726,7 @@
             "last_commit": "2024-03-05T03:15:09Z",
             "owner": "paradigmxyz",
             "repo": "artemis",
-            "stars": 2961
+            "stars": 2958
           }
         },
         {
@@ -746,6 +746,21 @@
         },
         {
           "node_type": "item",
+          "title": "rbuilder",
+          "description": ". rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822453964,
+            "language": "Rust",
+            "last_commit": "2026-08-21T11:26:27Z",
+            "owner": "flashbots",
+            "repo": "rbuilder",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
           "title": "mev-inspect-rs",
           "description": ". Discover historic Miner Extractable Value (MEV) opportunities.",
           "children": [],
@@ -756,22 +771,7 @@
             "last_commit": "2022-11-23T16:14:14Z",
             "owner": "flashbots",
             "repo": "mev-inspect-rs",
-            "stars": 563
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rbuilder",
-          "description": ". rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 822453964,
-            "language": "Rust",
-            "last_commit": "2026-07-20T04:47:25Z",
-            "owner": "flashbots",
-            "repo": "rbuilder",
-            "stars": 563
+            "stars": 562
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2026-08-18T20:02:47Z",
             "owner": "alchemyplatform",
             "repo": "rundler",
-            "stars": 391
+            "stars": 390
           }
         },
         {
@@ -930,7 +930,7 @@
             "archived": false,
             "id": 727489129,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:08:07Z",
+            "last_commit": "2026-08-21T18:49:04Z",
             "owner": "succinctlabs",
             "repo": "sp1",
             "stars": 1729
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 285004577,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:53:59Z",
+            "last_commit": "2026-08-21T18:07:59Z",
             "owner": "noir-lang",
             "repo": "noir",
             "stars": 1391
@@ -1005,7 +1005,7 @@
             "archived": false,
             "id": 793399480,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:17:10Z",
+            "last_commit": "2026-08-21T18:42:51Z",
             "owner": "openvm-org",
             "repo": "openvm",
             "stars": 393
@@ -1311,7 +1311,7 @@
                 "archived": false,
                 "id": 494059063,
                 "language": "Rust",
-                "last_commit": "2026-08-20T16:30:16Z",
+                "last_commit": "2026-08-21T18:26:19Z",
                 "owner": "starkware-libs",
                 "repo": "cairo",
                 "stars": 1902
@@ -1341,7 +1341,7 @@
                 "archived": false,
                 "id": 662788006,
                 "language": "Rust",
-                "last_commit": "2026-08-20T16:18:28Z",
+                "last_commit": "2026-08-21T18:02:09Z",
                 "owner": "foundry-rs",
                 "repo": "starknet-foundry",
                 "stars": 393
@@ -1419,7 +1419,7 @@
                 "last_commit": "2026-08-20T16:04:43Z",
                 "owner": "starkware-libs",
                 "repo": "cairo_native",
-                "stars": 135
+                "stars": 134
               }
             },
             {
@@ -1468,7 +1468,7 @@
                 "archived": false,
                 "id": 601974648,
                 "language": "Rust",
-                "last_commit": "2026-08-20T11:45:44Z",
+                "last_commit": "2026-08-21T11:08:53Z",
                 "owner": "matter-labs",
                 "repo": "zksync-era",
                 "stars": 3234
@@ -1520,10 +1520,10 @@
                 "archived": false,
                 "id": 331107018,
                 "language": "Rust",
-                "last_commit": "2026-08-14T14:48:39Z",
+                "last_commit": "2026-08-21T16:31:50Z",
                 "owner": "FuelLabs",
                 "repo": "sway",
-                "stars": 61495
+                "stars": 61489
               }
             },
             {
@@ -1535,10 +1535,10 @@
                 "archived": false,
                 "id": 290882787,
                 "language": "Rust",
-                "last_commit": "2026-08-18T21:15:18Z",
+                "last_commit": "2026-08-20T21:56:36Z",
                 "owner": "FuelLabs",
                 "repo": "fuel-core",
-                "stars": 56898
+                "stars": 56894
               }
             },
             {
@@ -1553,7 +1553,7 @@
                 "last_commit": "2026-06-29T14:14:40Z",
                 "owner": "FuelLabs",
                 "repo": "fuels-rs",
-                "stars": 43061
+                "stars": 43058
               }
             }
           ],
@@ -1576,7 +1576,7 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:50:04Z",
+            "last_commit": "2026-08-21T18:41:21Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10567
@@ -1606,10 +1606,10 @@
             "archived": false,
             "id": 631030757,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:24:20Z",
+            "last_commit": "2026-08-20T21:03:46Z",
             "owner": "paradigmxyz",
             "repo": "solar",
-            "stars": 555
+            "stars": 557
           }
         }
       ],
@@ -1645,7 +1645,7 @@
             "last_commit": "2026-08-16T00:09:09Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1600
+            "stars": 1599
           }
         },
         {
@@ -1660,7 +1660,7 @@
             "last_commit": "2025-02-14T15:41:16Z",
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 798
+            "stars": 797
           }
         },
         {
@@ -1675,7 +1675,7 @@
             "last_commit": "2024-10-20T22:37:52Z",
             "owner": "huff-language",
             "repo": "huff-rs",
-            "stars": 596
+            "stars": 595
           }
         },
         {
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:54:35.740Z",
+    "last_updated": "2026-08-21T18:51:02.392Z",
     "original_repository": "Vid201/awesome-ethereum-rust",
     "original_repository_id": 689443588,
     "original_repository_sha": "f7952026ef2c890e3a1ec1c104e6bfc611b7dbd9",
