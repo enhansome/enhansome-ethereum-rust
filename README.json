@@ -27,7 +27,7 @@
             "archived": false,
             "id": 139952333,
             "language": "Rust",
-            "last_commit": "2026-08-24T10:49:41Z",
+            "last_commit": "2026-08-24T18:03:44Z",
             "owner": "sigp",
             "repo": "lighthouse",
             "stars": 3466
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 537233603,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:23:43Z",
+            "last_commit": "2026-08-24T17:10:15Z",
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5747
+            "stars": 5748
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 808266543,
             "language": "Rust",
-            "last_commit": "2026-08-23T15:18:21Z",
+            "last_commit": "2026-08-24T18:21:13Z",
             "owner": "lambdaclass",
             "repo": "ethrex",
             "stars": 887
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 537233603,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:23:43Z",
+            "last_commit": "2026-08-24T17:10:15Z",
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5747
+            "stars": 5748
           }
         },
         {
@@ -746,21 +746,6 @@
         },
         {
           "node_type": "item",
-          "title": "mev-inspect-rs",
-          "description": ". Discover historic Miner Extractable Value (MEV) opportunities.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 311103802,
-            "language": "Rust",
-            "last_commit": "2022-11-23T16:14:14Z",
-            "owner": "flashbots",
-            "repo": "mev-inspect-rs",
-            "stars": 562
-          }
-        },
-        {
-          "node_type": "item",
           "title": "rbuilder",
           "description": ". rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust.",
           "children": [],
@@ -772,6 +757,21 @@
             "owner": "flashbots",
             "repo": "rbuilder",
             "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mev-inspect-rs",
+          "description": ". Discover historic Miner Extractable Value (MEV) opportunities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 311103802,
+            "language": "Rust",
+            "last_commit": "2022-11-23T16:14:14Z",
+            "owner": "flashbots",
+            "repo": "mev-inspect-rs",
+            "stars": 561
           }
         },
         {
@@ -1377,7 +1377,7 @@
                 "archived": false,
                 "id": 494059063,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:31:20Z",
+                "last_commit": "2026-08-24T17:35:04Z",
                 "owner": "starkware-libs",
                 "repo": "cairo",
                 "stars": 1901
@@ -1407,7 +1407,7 @@
                 "archived": false,
                 "id": 662788006,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:38:38Z",
+                "last_commit": "2026-08-24T17:45:43Z",
                 "owner": "foundry-rs",
                 "repo": "starknet-foundry",
                 "stars": 393
@@ -1534,10 +1534,10 @@
                 "archived": false,
                 "id": 601974648,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:06:23Z",
+                "last_commit": "2026-08-24T18:16:53Z",
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3233
+                "stars": 3232
               }
             },
             {
@@ -1608,10 +1608,10 @@
                 "archived": false,
                 "id": 331107018,
                 "language": "Rust",
-                "last_commit": "2026-08-23T16:55:34Z",
+                "last_commit": "2026-08-24T18:28:23Z",
                 "owner": "FuelLabs",
                 "repo": "sway",
-                "stars": 61486
+                "stars": 61485
               }
             },
             {
@@ -1626,7 +1626,7 @@
                 "last_commit": "2026-08-23T19:47:55Z",
                 "owner": "FuelLabs",
                 "repo": "fuel-core",
-                "stars": 56889
+                "stars": 56888
               }
             },
             {
@@ -1641,7 +1641,7 @@
                 "last_commit": "2026-06-29T14:14:40Z",
                 "owner": "FuelLabs",
                 "repo": "fuels-rs",
-                "stars": 43055
+                "stars": 43054
               }
             }
           ],
@@ -1708,7 +1708,7 @@
             "archived": false,
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:30:33Z",
+            "last_commit": "2026-08-24T18:24:57Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10571
@@ -1738,7 +1738,7 @@
             "archived": false,
             "id": 631030757,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:32:57Z",
+            "last_commit": "2026-08-24T18:47:26Z",
             "owner": "paradigmxyz",
             "repo": "solar",
             "stars": 557
@@ -1774,7 +1774,7 @@
             "archived": false,
             "id": 499880203,
             "language": "Rust",
-            "last_commit": "2026-08-23T00:09:02Z",
+            "last_commit": "2026-08-24T17:35:38Z",
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
             "stars": 1600
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:07.064Z",
+    "last_updated": "2026-08-24T18:53:48.251Z",
     "original_repository": "Vid201/awesome-ethereum-rust",
     "original_repository_id": 689443588,
     "original_repository_sha": "f7952026ef2c890e3a1ec1c104e6bfc611b7dbd9",
