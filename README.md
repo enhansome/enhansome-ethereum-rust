@@ -23,7 +23,7 @@ Awesome Ethereum Rust repos
 
 * [libp2p](https://github.com/libp2p/rust-libp2p) ⭐ 5,606 | 🐛 289 | 🌐 Rust | 📅 2026-08-24.
   The Rust implementation of the libp2p networking stack.
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 523 | 🌐 Rust | 📅 2026-08-28.
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 522 | 🌐 Rust | 📅 2026-08-28.
   Ethereum consensus client.
 * [grandine](https://github.com/grandinetech/grandine) ⭐ 276 | 🐛 135 | 🌐 Rust | 📅 2026-08-28.
   High performance Ethereum consensus client.
@@ -47,7 +47,7 @@ Awesome Ethereum Rust repos
 
 ## Beam Chain
 
-* [ream](https://github.com/ReamLabs/ream) ⭐ 145 | 🐛 40 | 🌐 Rust | 📅 2026-08-27.
+* [ream](https://github.com/ReamLabs/ream) ⭐ 145 | 🐛 38 | 🌐 Rust | 📅 2026-08-29.
   ream: an Ethereum Beam client written in Rust.
 
 ## EVM - Ethereum Virtual Machine
@@ -174,7 +174,7 @@ Awesome Ethereum Rust repos
 
 * [sp1](https://github.com/succinctlabs/sp1) ⭐ 1,732 | 🐛 131 | 🌐 Rust | 📅 2026-08-28.
   A performant, 100% open-source, contributor-friendly zkVM.
-* [noir-lang](https://github.com/noir-lang/noir) ⭐ 1,395 | 🐛 797 | 🌐 Rust | 📅 2026-08-28.
+* [noir-lang](https://github.com/noir-lang/noir) ⭐ 1,395 | 🐛 797 | 🌐 Rust | 📅 2026-08-29.
   Noir is a domain specific language for zero knowledge proofs.
 * [zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits) ⚠️ Archived.
   Circuits for zkEVM.
@@ -294,7 +294,7 @@ Awesome Ethereum Rust repos
 
 ### Aztec
 
-* [aztec-nr](https://github.com/AztecProtocol/aztec-nr) ⭐ 150 | 🐛 24 | 🌐 Noir | 📅 2026-08-28.
+* [aztec-nr](https://github.com/AztecProtocol/aztec-nr) ⭐ 150 | 🐛 24 | 🌐 Noir | 📅 2026-08-29.
   Aztec-nr is a Noir framework for smart contracts on Aztec.
 
 ### Other
@@ -304,7 +304,7 @@ Awesome Ethereum Rust repos
 
 ## dApp Development
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 282 | 🌐 Rust | 📅 2026-08-29.
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 283 | 🌐 Rust | 📅 2026-08-29.
   Foundry is a blazing fast, portable and modular toolkit for Ethereum application development.
 * [Rivet](https://github.com/paradigmxyz/rivet) ⭐ 929 | 🐛 21 | 🌐 TypeScript | 📅 2025-03-26.
   Developer Wallet & DevTools for Anvil.

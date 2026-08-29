@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Rust Implementation of the libp2p networking stack. ",
+            "homepage": "https://libp2p.io",
             "id": 86106381,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:59:38Z",
+            "open_issues": 289,
             "owner": "libp2p",
             "repo": "rust-libp2p",
-            "stars": 5606
+            "stars": 5606,
+            "topics": [
+              "decentralization",
+              "libp2p",
+              "networking",
+              "peer-to-peer",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -26,12 +37,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum consensus client in Rust",
+            "homepage": "https://lighthouse-book.sigmaprime.io/",
             "id": 139952333,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:23:39Z",
+            "open_issues": 522,
             "owner": "sigp",
             "repo": "lighthouse",
-            "stars": 3466
+            "stars": 3466,
+            "topics": [
+              "eth2",
+              "ethereum",
+              "proof-of-stake"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance Ethereum consensus client",
+            "homepage": null,
             "id": 381346344,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T15:06:10Z",
+            "open_issues": 135,
             "owner": "grandinetech",
             "repo": "grandine",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of Discovery v5",
+            "homepage": null,
             "id": 259225761,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T08:33:59Z",
+            "open_issues": 10,
             "owner": "sigp",
             "repo": "discv5",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 422157724,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-18T18:19:42Z",
+            "open_issues": 49,
             "owner": "ralexstokes",
             "repo": "ethereum-consensus",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -90,12 +125,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A client for the Ethereum beacon node APIs",
+            "homepage": null,
             "id": 488659302,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-15T16:26:30Z",
+            "open_issues": 1,
             "owner": "ralexstokes",
             "repo": "beacon-api-client",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -112,12 +152,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+            "homepage": "https://reth.rs/",
             "id": 537233603,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:44:42Z",
+            "open_issues": 223,
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5754
+            "stars": 5754,
+            "topics": [
+              "blockchain",
+              "contributor-friendly",
+              "distributed-systems",
+              "ethereum",
+              "execution-layer",
+              "modular",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -128,12 +182,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client.",
+            "homepage": "http://docs.ethrex.xyz/",
             "id": 808266543,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:08:29Z",
+            "open_issues": 991,
             "owner": "lambdaclass",
             "repo": "ethrex",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "blockchain",
+              "distributed-systems",
+              "ethereum",
+              "execution-layer",
+              "p2p",
+              "rollup",
+              "rollups",
+              "rust",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -144,12 +213,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fastest Ethereum archive node ever built",
+            "homepage": "https://akula.app",
             "id": 327140372,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2022-11-30T22:24:37Z",
+            "open_issues": 11,
             "owner": "akula-bft",
             "repo": "akula",
-            "stars": 786
+            "stars": 786,
+            "topics": [
+              "blockchain",
+              "client",
+              "ethereum",
+              "node",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -160,12 +241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ranger is an ethereum p2p client capable of interacting with peers without a full node",
+            "homepage": null,
             "id": 473713758,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-06T04:02:24Z",
+            "open_issues": 9,
             "owner": "Rjected",
             "repo": "ranger",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "devp2p",
+              "eth",
+              "mempool",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -182,12 +274,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of the Ethereum Virtual Machine.",
+            "homepage": "https://bluealloy.github.io/revm/",
             "id": 411607920,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:27:06Z",
+            "open_issues": 90,
             "owner": "bluealloy",
             "repo": "revm",
-            "stars": 2221
+            "stars": 2221,
+            "topics": [
+              "blockchain",
+              "contributor-friendly",
+              "ethereum",
+              "evm",
+              "revm",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -198,12 +302,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.",
+            "homepage": null,
             "id": 165302802,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-08-07T03:59:52Z",
+            "open_issues": 9,
             "owner": "0age",
             "repo": "create2crunch",
-            "stars": 541
+            "stars": 541,
+            "topics": [
+              "address",
+              "efficient",
+              "ethereum",
+              "mining",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -214,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ultimate Parallel EVM Engine: Transaction Execution, State Root Calculation, Shred Broadcasting. All in One and at Once!",
+            "homepage": null,
             "id": 782305231,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-05T07:48:29Z",
+            "open_issues": 67,
             "owner": "risechain",
             "repo": "pevm",
-            "stars": 357
+            "stars": 357,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -230,12 +350,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.",
+            "homepage": "https://paradigmxyz.github.io/revmc/",
             "id": 769994886,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:40:22Z",
+            "open_issues": 3,
             "owner": "paradigmxyz",
             "repo": "revmc",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "aot",
+              "compiler",
+              "cranelift",
+              "evm",
+              "jit",
+              "llvm"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -246,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EVM Execution Hooks.",
+            "homepage": null,
             "id": 722336953,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T11:45:49Z",
+            "open_issues": 17,
             "owner": "paradigmxyz",
             "repo": "revm-inspectors",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -262,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DSL for generating optimal EVM bytecode",
+            "homepage": null,
             "id": 743627169,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-11-05T19:33:59Z",
+            "open_issues": 6,
             "owner": "Philogy",
             "repo": "balls",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -278,12 +420,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "convert evm bytecode to native machine code and go vroom - just an experiment, probably broken, reach out to georgios@paradigm.xyz to contribute / productionize.",
+            "homepage": null,
             "id": 671600200,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-06-20T02:35:51Z",
+            "open_issues": 2,
             "owner": "paradigmxyz",
             "repo": "jitevm",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -294,12 +441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust library to disassemble evm bytecode",
+            "homepage": null,
             "id": 611102138,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-01-11T15:21:58Z",
+            "open_issues": 4,
             "owner": "ckoopmann",
             "repo": "evm-disassembler",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -316,12 +468,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+            "homepage": "https://reth.rs/",
             "id": 537233603,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:44:42Z",
+            "open_issues": 223,
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5754
+            "stars": 5754,
+            "topics": [
+              "blockchain",
+              "contributor-friendly",
+              "distributed-systems",
+              "ethereum",
+              "execution-layer",
+              "modular",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -332,12 +498,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+            "homepage": null,
             "id": 266602341,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-23T10:31:00Z",
+            "open_issues": 213,
             "owner": "gakonst",
             "repo": "ethers-rs",
-            "stars": 2509
+            "stars": 2509,
+            "topics": [
+              "celo",
+              "ethereum",
+              "rust",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -348,12 +524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth",
+            "homepage": null,
             "id": 77491041,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-27T22:16:04Z",
+            "open_issues": 105,
             "owner": "tomusdrw",
             "repo": "rust-web3",
-            "stars": 1509
+            "stars": 1509,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -364,12 +545,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transports, Middleware, and Networks for the Alloy project",
+            "homepage": "https://alloy.rs",
             "id": 629243152,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:00:52Z",
+            "open_issues": 139,
             "owner": "alloy-rs",
             "repo": "alloy",
-            "stars": 1322
+            "stars": 1322,
+            "topics": [
+              "blockchain",
+              "ethereum"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -380,12 +569,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance, well-tested & documented core libraries for Ethereum, in Rust",
+            "homepage": "https://alloy.rs",
             "id": 615421431,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T14:15:56Z",
+            "open_issues": 35,
             "owner": "alloy-rs",
             "repo": "core",
-            "stars": 963
+            "stars": 963,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "evm",
+              "rust",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -396,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ether-rs middleware to access reth's db directly, bypassing JSON-RPC",
+            "homepage": null,
             "id": 640577736,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-10-18T18:44:41Z",
+            "open_issues": 2,
             "owner": "SorellaLabs",
             "repo": "ethers-reth",
-            "stars": 270
+            "stars": 270,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -412,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust Uint crate using const-generics",
+            "homepage": null,
             "id": 492059643,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T11:39:24Z",
+            "open_issues": 69,
             "owner": "alloy-rs",
             "repo": "ruint",
-            "stars": 225
+            "stars": 225,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -428,12 +638,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles",
+            "homepage": null,
             "id": 733152007,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:07:53Z",
+            "open_issues": 6,
             "owner": "alloy-rs",
             "repo": "trie",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "alloy",
+              "alloy-rs",
+              "blockchain",
+              "ethereum",
+              "ethereum-blockchain",
+              "ethereum-rlp",
+              "foundry",
+              "foundry-rs",
+              "merkle",
+              "merkle-patricia",
+              "merkle-patricia-trie",
+              "mpt",
+              "reth",
+              "rlp",
+              "rust-ethereum",
+              "trie",
+              "triehash"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -444,12 +677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast implementation of Ethereum RLP serialization",
+            "homepage": null,
             "id": 665456718,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T09:39:31Z",
+            "open_issues": 3,
             "owner": "alloy-rs",
             "repo": "rlp",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -460,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of ethereum's `ssz`",
+            "homepage": null,
             "id": 371858646,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-04T16:22:37Z",
+            "open_issues": 17,
             "owner": "ralexstokes",
             "repo": "ssz-rs",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -476,12 +719,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Canonical type definitions for EIP-155 chains",
+            "homepage": null,
             "id": 694761240,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:22:21Z",
+            "open_issues": 3,
             "owner": "alloy-rs",
             "repo": "chains",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "alloy",
+              "ethereum",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -492,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum Node Record",
+            "homepage": null,
             "id": 521089251,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-09-29T22:52:25Z",
+            "open_issues": 5,
             "owner": "sigp",
             "repo": "enr",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -508,12 +765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleSerialize (SSZ) implementation optimised for speed and security",
+            "homepage": null,
             "id": 581029794,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T07:11:58Z",
+            "open_issues": 10,
             "owner": "sigp",
             "repo": "ethereum_ssz",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -524,12 +786,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent binary merkle tree",
+            "homepage": null,
             "id": 430028842,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T01:29:25Z",
+            "open_issues": 23,
             "owner": "sigp",
             "repo": "milhouse",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "beacon-chain",
+              "ethereum",
+              "merkle-tree",
+              "persistent-data-structure"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -540,12 +812,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive transaction MPT proofs handler for Ethereum / Starknet",
+            "homepage": null,
             "id": 773924473,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-14T11:55:48Z",
+            "open_issues": 4,
             "owner": "HerodotusDev",
             "repo": "trie-proofs",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ethereum",
+              "merkle-patricia-trie",
+              "starknet",
+              "trie"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -556,12 +838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of the Modified Patricia Tree (aka Trie).  ",
+            "homepage": null,
             "id": 852483034,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-29T10:33:53Z",
+            "open_issues": 2,
             "owner": "ethereum",
             "repo": "eth-trie.rs",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -572,12 +859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List, vector and bitfield types for SSZ",
+            "homepage": null,
             "id": 589445322,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-29T17:21:34Z",
+            "open_issues": 8,
             "owner": "sigp",
             "repo": "ssz_types",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -588,12 +880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSZ with BigEndian notation",
+            "homepage": null,
             "id": 435682612,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-06T23:48:31Z",
+            "open_issues": 0,
             "owner": "rakita",
             "repo": "sszb",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -610,12 +907,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, secure, and portable multichain light client for Ethereum",
+            "homepage": null,
             "id": 523436104,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-26T19:14:25Z",
+            "open_issues": 95,
             "owner": "a16z",
             "repo": "helios",
-            "stars": 2176
+            "stars": 2176,
+            "topics": [
+              "ethereum"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -626,12 +930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage",
+            "homepage": null,
             "id": 338460624,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-09-23T12:33:24Z",
+            "open_issues": 63,
             "owner": "ethereum",
             "repo": "trin",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -642,12 +951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On-chain Ethereum light client built with SP1",
+            "homepage": "https://succinctlabs.github.io/sp1-helios/",
             "id": 820097438,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-07-14T05:28:09Z",
+            "open_issues": 1,
             "owner": "succinctlabs",
             "repo": "sp1-helios",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -658,12 +972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of ZK light client libraries for various blockchains",
+            "homepage": null,
             "id": 813668119,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-12-04T00:38:53Z",
+            "open_issues": 24,
             "owner": "argumentcomputer",
             "repo": "zk-light-clients",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -680,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal implementation of the Polynomial Commitments API for EIP-4844 and EIP-7594, written in C.",
+            "homepage": null,
             "id": 567729203,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T16:55:58Z",
+            "open_issues": 7,
             "owner": "ethereum",
             "repo": "c-kzg-4844",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -696,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 534738043,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-09-27T01:35:19Z",
+            "open_issues": 17,
             "owner": "ethereum",
             "repo": "kzg-ceremony-sequencer",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -712,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KZG commitments over BLS12-381",
+            "homepage": null,
             "id": 334315358,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-10-05T20:54:54Z",
+            "open_issues": 0,
             "owner": "ralexstokes",
             "repo": "kzg",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -728,12 +1062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 544128672,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-03-30T07:25:20Z",
+            "open_issues": 0,
             "owner": "crate-crypto",
             "repo": "proto-danksharding-crypto",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -744,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ethereum KZG",
+            "homepage": null,
             "id": 712581983,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-04-11T02:21:33Z",
+            "open_issues": 6,
             "owner": "jacobkaufmann",
             "repo": "kateth",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -766,12 +1110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, modular, and fast framework for writing MEV bots in Rust.",
+            "homepage": null,
             "id": 632643862,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-05T03:15:09Z",
+            "open_issues": 37,
             "owner": "paradigmxyz",
             "repo": "artemis",
-            "stars": 2959
+            "stars": 2959,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -782,12 +1131,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection",
+            "homepage": "https://book.brontes.xyz",
             "id": 665108503,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-28T21:24:20Z",
+            "open_issues": 21,
             "owner": "SorellaLabs",
             "repo": "brontes",
-            "stars": 673
+            "stars": 673,
+            "topics": [
+              "ethereum",
+              "etl-pipeline",
+              "evm",
+              "mev",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -798,12 +1158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust",
+            "homepage": null,
             "id": 822453964,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:55:36Z",
+            "open_issues": 107,
             "owner": "flashbots",
             "repo": "rbuilder",
-            "stars": 563
+            "stars": 563,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -814,12 +1179,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Discover historic Miner Extractable Value (MEV) opportunities",
+            "homepage": null,
             "id": 311103802,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-11-23T16:14:14Z",
+            "open_issues": 24,
             "owner": "flashbots",
             "repo": "mev-inspect-rs",
-            "stars": 561
+            "stars": 561,
+            "topics": [
+              "arbitrage",
+              "defi",
+              "ethereum",
+              "liquidation",
+              "mev",
+              "rust",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -830,12 +1208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a gateway to a network of block builders",
+            "homepage": null,
             "id": 489400079,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-24T22:02:49Z",
+            "open_issues": 40,
             "owner": "ralexstokes",
             "repo": "mev-rs",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -846,12 +1229,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Ethers middleware for submitting Flashbots bundles",
+            "homepage": null,
             "id": 396508865,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-06-18T15:20:15Z",
+            "open_issues": 0,
             "owner": "onbjerg",
             "repo": "ethers-flashbots",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -862,12 +1250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust client library for Flashbots MEV-share",
+            "homepage": null,
             "id": 631616177,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-17T14:55:35Z",
+            "open_issues": 6,
             "owner": "paradigmxyz",
             "repo": "mev-share-rs",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -878,12 +1271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retroactively estimate Uniswap-ish MEV on Flashbots MEV-Share by simulating backrun-arbitrages.",
+            "homepage": null,
             "id": 661497043,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-04-26T07:09:22Z",
+            "open_issues": 14,
             "owner": "flashbots",
             "repo": "hindsight",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -894,12 +1292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a prototype ethereum block builder",
+            "homepage": null,
             "id": 664477091,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-16T03:48:29Z",
+            "open_issues": 9,
             "owner": "jacobkaufmann",
             "repo": "evangelion",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -910,12 +1313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Andromeda revm execution service",
+            "homepage": null,
             "id": 745584530,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-07-25T10:40:52Z",
+            "open_issues": 6,
             "owner": "flashbots",
             "repo": "suave-andromeda-revm",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -932,12 +1340,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ERC-4337 Bundler in Rust",
+            "homepage": null,
             "id": 597939974,
             "language": "Rust",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-18T20:02:47Z",
+            "open_issues": 46,
             "owner": "alchemyplatform",
             "repo": "rundler",
-            "stars": 391
+            "stars": 391,
+            "topics": [
+              "erc4337",
+              "ethereum",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -948,12 +1365,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ERC-4337 (Account Abstraction) - modular and efficient bundler implementation in Rust.",
+            "homepage": "http://silius.rs/",
             "id": 555758437,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-18T21:35:10Z",
+            "open_issues": 34,
             "owner": "silius-rs",
             "repo": "silius",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "account-abstraction",
+              "bundler",
+              "eip-4337",
+              "erc-4337",
+              "ethereum",
+              "modular",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -964,12 +1395,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UserOperation Indexer for EIP4337",
+            "homepage": null,
             "id": 633783997,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-05-03T01:41:56Z",
+            "open_issues": 0,
             "owner": "zsluedem",
             "repo": "UoIndexer",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "account-abstraction",
+              "eip4337",
+              "ethereum",
+              "ethers-rs",
+              "mongodb",
+              "rocksdb"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -986,12 +1429,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.",
+            "homepage": "https://docs.succinct.xyz/docs/sp1/introduction",
             "id": 727489129,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:34:27Z",
+            "open_issues": 131,
             "owner": "succinctlabs",
             "repo": "sp1",
-            "stars": 1732
+            "stars": 1732,
+            "topics": [
+              "blockchain",
+              "contributor-friendly",
+              "ethereum",
+              "modular",
+              "rust",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1002,12 +1457,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noir is a domain specific language for zero knowledge proofs",
+            "homepage": "https://noir-lang.org",
             "id": 285004577,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:49:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:19:07Z",
+            "open_issues": 797,
             "owner": "noir-lang",
             "repo": "noir",
-            "stars": 1395
+            "stars": 1395,
+            "topics": [
+              "compiler",
+              "cryptography",
+              "noir-lang",
+              "programming-language",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1018,12 +1484,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://privacy-scaling-explorations.github.io/zkevm-circuits/",
             "id": 380947649,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-05T08:44:26Z",
+            "open_issues": 153,
             "owner": "privacy-ethereum",
             "repo": "zkevm-circuits",
-            "stars": 821
+            "stars": 821,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1034,12 +1505,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.",
+            "homepage": "https://lambdaclass.github.io/lambdaworks/",
             "id": 589580952,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T21:18:41Z",
+            "open_issues": 111,
             "owner": "lambdaclass",
             "repo": "lambdaworks",
-            "stars": 736
+            "stars": 736,
+            "topics": [
+              "cryptography",
+              "mathematics",
+              "zero-knowledge-proofs"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1050,12 +1530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A \"Type 0\" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM",
+            "homepage": null,
             "id": 673538066,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T08:58:08Z",
+            "open_issues": 16,
             "owner": "boundless-xyz",
             "repo": "zeth",
-            "stars": 450
+            "stars": 450,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1066,12 +1551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A performant and modular zkVM framework built for customization and extensibility.",
+            "homepage": "https://openvm.dev",
             "id": 793399480,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:27:39Z",
+            "open_issues": 6,
             "owner": "openvm-org",
             "repo": "openvm",
-            "stars": 394
+            "stars": 394,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1082,12 +1572,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://privacy-scaling-explorations.github.io/halo2/",
             "id": 417466633,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-01T09:15:47Z",
+            "open_issues": 8,
             "owner": "privacy-ethereum",
             "repo": "halo2",
-            "stars": 252
+            "stars": 252,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1098,12 +1593,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DSL for Halo2 circuits",
+            "homepage": "https://docs.pecadorplonkish.xyz/",
             "id": 619376836,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-11-04T12:25:21Z",
+            "open_issues": 0,
             "owner": "privacy-ethereum",
             "repo": "chiquito",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1114,12 +1614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal implementation of ZKPs of Ethereum block execution using Reth. Supports both Ethereum and OP Stack.",
+            "homepage": "https://succinctlabs.github.io/rsp/",
             "id": 828710472,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T04:27:14Z",
+            "open_issues": 3,
             "owner": "succinctlabs",
             "repo": "rsp",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -1136,12 +1641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of Stateless Ethereum client based on Reth",
+            "homepage": null,
             "id": 904294304,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-04-16T11:46:43Z",
+            "open_issues": 5,
             "owner": "paradigmxyz",
             "repo": "ress",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1152,12 +1662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 350071796,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-25T12:55:46Z",
+            "open_issues": 36,
             "owner": "crate-crypto",
             "repo": "rust-verkle",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1168,12 +1683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 450756891,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2022-11-25T16:50:32Z",
+            "open_issues": 1,
             "owner": "gballet",
             "repo": "verkle-block-sample",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -1192,12 +1712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Smart Contracts on Arbitrum",
+                "homepage": null,
                 "id": 665178789,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-11T19:14:14Z",
+                "open_issues": 25,
                 "owner": "OffchainLabs",
                 "repo": "stylus-sdk-rs",
-                "stars": 323
+                "stars": 323,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1215,12 +1740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A blazing fast OP Stack rollup client written in Rust",
+                "homepage": null,
                 "id": 601867299,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-08-16T19:28:34Z",
+                "open_issues": 24,
                 "owner": "a16z",
                 "repo": "magi",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1231,12 +1761,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A testnet open-source Layer 2 from the future, co-designed with the developer tools stack.",
+                "homepage": "https://ithaca.xyz/updates/odyssey",
                 "id": 871007590,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-12T06:26:35Z",
+                "open_issues": 26,
                 "owner": "ithacaxyz",
                 "repo": "odyssey",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "ethereum",
+                  "optimism",
+                  "optimism-l2",
+                  "rollup"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1247,12 +1787,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Monorepo for OP Stack Types, Components, and Services built in Rust.",
+                "homepage": "https://rollup.yoga/",
                 "id": 722878666,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-01-16T16:44:30Z",
+                "open_issues": 178,
                 "owner": "op-rs",
                 "repo": "kona",
-                "stars": 290
+                "stars": 290,
+                "topics": [
+                  "blockchain",
+                  "crypto",
+                  "ethereum",
+                  "fault-proofs",
+                  "node",
+                  "optimism",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1263,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Succinct's Production-Grade Proving Engine for the OP Stack.",
+                "homepage": "https://succinctlabs.github.io/op-succinct/",
                 "id": 811064036,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:11:20Z",
+                "open_issues": 35,
                 "owner": "succinctlabs",
                 "repo": "op-succinct",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1279,12 +1837,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reth AlphaNet is a testnet OP Stack-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research.",
+                "homepage": null,
                 "id": 765376485,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T00:28:27Z",
+                "open_issues": 5,
                 "owner": "paradigmxyz",
                 "repo": "alphanet",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1295,12 +1858,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scaling Ethereum, but this time in rust.",
+                "homepage": null,
                 "id": 631610272,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-23T22:29:24Z",
+                "open_issues": 0,
                 "owner": "refcell",
                 "repo": "optimism-rs",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1311,12 +1879,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transports, Middleware, and Networks for the OP Stack built on Alloy ",
+                "homepage": "https://alloy-rs.github.io/op-alloy/",
                 "id": 782704052,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-18T14:17:23Z",
+                "open_issues": 6,
                 "owner": "alloy-rs",
                 "repo": "op-alloy",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "optimism"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1327,12 +1904,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fork of OP-Reth for developing capability to server proofs in FP window",
+                "homepage": null,
                 "id": 599745356,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-02T04:13:27Z",
+                "open_issues": 1,
                 "owner": "op-rs",
                 "repo": "op-reth",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1343,12 +1925,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An alternative implementation of the OP Stack's Cannon, a MIPS emulator for the EVM.",
+                "homepage": null,
                 "id": 690858446,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-07-27T16:13:45Z",
+                "open_issues": 8,
                 "owner": "op-rs",
                 "repo": "cannon-rs",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1359,12 +1946,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Composable OP Stack Orchestration",
+                "homepage": "https://stack.anton.systems",
                 "id": 648712246,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-11-10T21:38:50Z",
+                "open_issues": 27,
                 "owner": "op-rs",
                 "repo": "op-up",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1375,12 +1967,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Rust library for creating solvers in the OP Stack's dispute protocol",
+                "homepage": null,
                 "id": 689143287,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-01-15T21:16:35Z",
+                "open_issues": 0,
                 "owner": "op-rs",
                 "repo": "durin",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1391,12 +1988,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity",
+                "homepage": null,
                 "id": 681482008,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-02-22T00:16:53Z",
+                "open_issues": 0,
                 "owner": "op-rs",
                 "repo": "op-revm",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1414,12 +2016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 339874055,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-01T15:45:09Z",
+                "open_issues": 25,
                 "owner": "0xPolygonZero",
                 "repo": "plonky2",
-                "stars": 858
+                "stars": 858,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1437,12 +2044,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scroll zkEVM Playground",
+                "homepage": "https://scroll.io",
                 "id": 490975903,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-18T01:30:34Z",
+                "open_issues": 47,
                 "owner": "scroll-tech",
                 "repo": "scroll-prover",
-                "stars": 682
+                "stars": 682,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1460,12 +2072,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cairo is the first Turing-complete language for creating provable programs for general computation.",
+                "homepage": null,
                 "id": 494059063,
                 "language": "Rust",
-                "last_commit": "2026-08-29T00:53:41Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:23:21Z",
+                "open_issues": 207,
                 "owner": "starkware-libs",
                 "repo": "cairo",
-                "stars": 1902
+                "stars": 1902,
+                "topics": [
+                  "cairo",
+                  "computational-integrity",
+                  "starknet",
+                  "zero-knowledge-proofs",
+                  "zkp"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1476,12 +2099,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular stack to build Starknet based scaling engines written in Rust",
+                "homepage": null,
                 "id": 599979944,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-23T01:08:22Z",
+                "open_issues": 0,
                 "owner": "AbdelStark",
                 "repo": "madara",
-                "stars": 524
+                "stars": 524,
+                "topics": [
+                  "archived",
+                  "cairo",
+                  "deprecated",
+                  "ethereum",
+                  "obsolete",
+                  "starknet",
+                  "starknet-appchain",
+                  "starknet-stack",
+                  "substrate"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1492,12 +2130,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing fast toolkit for developing Starknet contracts.",
+                "homepage": "https://foundry-rs.github.io/starknet-foundry/",
                 "id": 662788006,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:16:14Z",
+                "open_issues": 184,
                 "owner": "foundry-rs",
                 "repo": "starknet-foundry",
-                "stars": 393
+                "stars": 393,
+                "topics": [
+                  "blockchain",
+                  "cairo",
+                  "cairo-lang",
+                  "dapp",
+                  "framework",
+                  "rust",
+                  "starknet",
+                  "testing",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1508,12 +2161,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Papyrus is a StarkNet full node written in Rust.",
+                "homepage": null,
                 "id": 490190929,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-26T13:52:22Z",
+                "open_issues": 0,
                 "owner": "starkware-libs",
                 "repo": "papyrus",
-                "stars": 323
+                "stars": 323,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1524,12 +2182,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete Starknet library in Rust™",
+                "homepage": "https://starknet.rs",
                 "id": 434233934,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-09T16:07:25Z",
+                "open_issues": 23,
                 "owner": "xJonathanLEI",
                 "repo": "starknet-rs",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "ethereum",
+                  "rust",
+                  "starknet"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1540,12 +2207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 682077767,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-16T13:22:55Z",
+                "open_issues": 12,
                 "owner": "starkware-libs",
                 "repo": "stone-prover",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1556,12 +2228,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Rust implementation of Starknet execution logic",
+                "homepage": null,
                 "id": 574632352,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-22T22:03:21Z",
+                "open_issues": 38,
                 "owner": "lambdaclass",
                 "repo": "starknet_in_rust",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "cairo",
+                  "ethereum",
+                  "rust",
+                  "starknet"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1572,12 +2254,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A compiler to convert Cairo's intermediate representation \"Sierra\" code to MLIR.",
+                "homepage": "https://lambdaclass.github.io/cairo_native/cairo_native",
                 "id": 609222523,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:22:13Z",
+                "open_issues": 77,
                 "owner": "starkware-libs",
                 "repo": "cairo_native",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "cairo",
+                  "mlir",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1588,12 +2279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 🐺  Starknet Rust types 🦀",
+                "homepage": null,
                 "id": 645208755,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-12-02T18:41:09Z",
+                "open_issues": 3,
                 "owner": "starknet-io",
                 "repo": "types-rs",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1604,12 +2300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly without the need for this party to re-execute the same program.",
+                "homepage": "https://lambdaclass.github.io/cairo-vm",
                 "id": 1191947332,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-09T13:19:44Z",
+                "open_issues": 0,
                 "owner": "lambdaclass",
                 "repo": "cairo-vm",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1627,12 +2328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zkSync era",
+                "homepage": null,
                 "id": 601974648,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T20:02:17Z",
+                "open_issues": 147,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3233
+                "stars": 3233,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1643,12 +2349,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Circuit Implementation of zkVM for zkSync Era",
+                "homepage": null,
                 "id": 601948222,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-04T17:57:51Z",
+                "open_issues": 6,
                 "owner": "matter-labs",
                 "repo": "era-sync_vm",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1659,12 +2370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EraVM implementation",
+                "homepage": null,
                 "id": 812043694,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-09-05T19:44:38Z",
+                "open_issues": 14,
                 "owner": "lambdaclass",
                 "repo": "era_vm",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1682,12 +2398,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Multi-proofs for Taiko. SNARKS, STARKS and Trusted Execution Enclave. Our previous ZK-EVM circuits are deprecated.",
+                "homepage": null,
                 "id": 688555844,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T09:44:32Z",
+                "open_issues": 72,
                 "owner": "taikoxyz",
                 "repo": "raiko",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1705,12 +2426,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+                "homepage": "https://docs.fuel.network/docs/sway/",
                 "id": 331107018,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:59:58Z",
+                "open_issues": 937,
                 "owner": "FuelLabs",
                 "repo": "sway",
-                "stars": 61479
+                "stars": 61479,
+                "topics": [
+                  "compiler",
+                  "fuel",
+                  "language",
+                  "sway"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1721,12 +2452,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust full node implementation of the Fuel v2 protocol.",
+                "homepage": null,
                 "id": 290882787,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:04:06Z",
+                "open_issues": 202,
                 "owner": "FuelLabs",
                 "repo": "fuel-core",
-                "stars": 56879
+                "stars": 56879,
+                "topics": [
+                  "blockchain",
+                  "fuel"
+                ]
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             },
@@ -1737,12 +2476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fuel Network Rust SDK",
+                "homepage": "https://fuellabs.github.io/fuels-rs",
                 "id": 423275200,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-29T14:14:40Z",
+                "open_issues": 71,
                 "owner": "FuelLabs",
                 "repo": "fuels-rs",
-                "stars": 43046
+                "stars": 43046,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1760,12 +2504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of AztecProtocol/aztec-packages/aztec-nr",
+                "homepage": null,
                 "id": 691083596,
                 "language": "Noir",
-                "last_commit": "2026-08-28T06:42:19Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:16:10Z",
+                "open_issues": 24,
                 "owner": "AztecProtocol",
                 "repo": "aztec-nr",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1783,12 +2532,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "rust types and services for Zenith 🎀",
+                "homepage": null,
                 "id": 794401025,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-03-26T12:41:11Z",
+                "open_issues": 1,
                 "owner": "init4tech",
                 "repo": "zenith-rs",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
             }
@@ -1810,12 +2564,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+            "homepage": "https://getfoundry.sh/",
             "id": 404320053,
             "language": "Rust",
-            "last_commit": "2026-08-29T01:38:57Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:28:02Z",
+            "open_issues": 283,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10573
+            "stars": 10573,
+            "topics": [
+              "alloy",
+              "blockchain",
+              "bytecode",
+              "compiler",
+              "compilers",
+              "dapp",
+              "eth",
+              "ethereum",
+              "evm",
+              "framework",
+              "fuzzing",
+              "ir",
+              "rust",
+              "smart-contracts",
+              "solidity",
+              "tempo",
+              "testing",
+              "tooling",
+              "toolkit",
+              "vyper"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1826,12 +2606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Developer Wallet & DevTools for Anvil",
+            "homepage": null,
             "id": 681833520,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-26T09:30:38Z",
+            "open_issues": 21,
             "owner": "paradigmxyz",
             "repo": "rivet",
-            "stars": 929
+            "stars": 929,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1842,12 +2627,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust",
+            "homepage": null,
             "id": 631030757,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:12:04Z",
+            "open_issues": 21,
             "owner": "paradigmxyz",
             "repo": "solar",
-            "stars": 558
+            "stars": 558,
+            "topics": [
+              "compiler",
+              "ethereum",
+              "evm",
+              "programming-language",
+              "solc",
+              "solidity",
+              "yul"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -1864,12 +2662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emerging smart contract language for the Ethereum blockchain.",
+            "homepage": "https://fe-lang.org",
             "id": 201584176,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T16:21:07Z",
+            "open_issues": 144,
             "owner": "argotorg",
             "repo": "fe",
-            "stars": 1728
+            "stars": 1728,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1880,12 +2683,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.",
+            "homepage": "http://heimdall.rs",
             "id": 499880203,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:20:39Z",
+            "open_issues": 20,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1605
+            "stars": 1605,
+            "topics": [
+              "cfg",
+              "decoder",
+              "decompiler",
+              "disassembler",
+              "eth",
+              "ethereum",
+              "evm",
+              "rust",
+              "security",
+              "solidity",
+              "toolkit",
+              "yul"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1896,12 +2717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for analyzing the security and parameters of a solidity smart contract",
+            "homepage": null,
             "id": 586608936,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-14T15:41:16Z",
+            "open_issues": 15,
             "owner": "nascentxyz",
             "repo": "pyrometer",
-            "stars": 797
+            "stars": 797,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1912,12 +2738,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.",
+            "homepage": "https://huff.sh",
             "id": 498320188,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-20T22:37:52Z",
+            "open_issues": 31,
             "owner": "huff-language",
             "repo": "huff-rs",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "bytecode",
+              "compiler",
+              "ethereum",
+              "evm",
+              "huff",
+              "language",
+              "rust",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1928,12 +2768,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encode and decode smart contract invocations",
+            "homepage": null,
             "id": 57925247,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-16T17:41:09Z",
+            "open_issues": 46,
             "owner": "rust-ethereum",
             "repo": "ethabi",
-            "stars": 523
+            "stars": 523,
+            "topics": [
+              "abi",
+              "ethereum",
+              "evm",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1944,12 +2794,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solidity-Compiler Version Manager",
+            "homepage": null,
             "id": 405391042,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:39:34Z",
+            "open_issues": 8,
             "owner": "alloy-rs",
             "repo": "svm-rs",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "solidity",
+              "version-manager"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -1966,12 +2824,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes",
+            "homepage": null,
             "id": 658996666,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-08T07:31:22Z",
+            "open_issues": 80,
             "owner": "paradigmxyz",
             "repo": "cryo",
-            "stars": 1581
+            "stars": 1581,
+            "topics": [
+              "crypto",
+              "ethereum",
+              "evm",
+              "parquet",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         },
@@ -1982,12 +2851,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulate a full Ethereum network using Shadow",
+            "homepage": null,
             "id": 587165894,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-12T08:40:12Z",
+            "open_issues": 5,
             "owner": "ethereum",
             "repo": "ethshadow",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "cryptocurrency",
+              "ethereum",
+              "network",
+              "p2p",
+              "simulation",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
         }
@@ -1996,15 +2877,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:43:16.372Z",
+    "last_updated": "2026-08-29T04:57:36.301Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Ethereum Rust repos",
+      "homepage": null,
       "id": 689443588,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-03-14T16:00:08Z",
+      "open_issues": 2,
       "owner": "Vid201",
       "repo": "awesome-ethereum-rust",
-      "stars": 151
+      "stars": 151,
+      "topics": [
+        "awesome-list",
+        "blockchain",
+        "dapp",
+        "distributed-systems",
+        "ethereum",
+        "evm",
+        "layer-2",
+        "p2p",
+        "rust"
+      ]
     },
     "original_repository_sha": "f7952026ef2c890e3a1ec1c104e6bfc611b7dbd9",
     "enhanced_repository": "enhansome/enhansome-ethereum-rust",
