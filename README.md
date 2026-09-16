@@ -21,11 +21,11 @@ Awesome Ethereum Rust repos
 
 ## Consensus
 
-* [libp2p](https://github.com/libp2p/rust-libp2p) ⭐ 5,612 | 🐛 287 | 🌐 Rust | 📅 2026-09-15.
+* [libp2p](https://github.com/libp2p/rust-libp2p) ⭐ 5,613 | 🐛 286 | 🌐 Rust | 📅 2026-09-16.
   The Rust implementation of the libp2p networking stack.
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,471 | 🐛 544 | 🌐 Rust | 📅 2026-09-15.
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,470 | 🐛 544 | 🌐 Rust | 📅 2026-09-16.
   Ethereum consensus client.
-* [grandine](https://github.com/grandinetech/grandine) ⭐ 277 | 🐛 142 | 🌐 Rust | 📅 2026-09-15.
+* [grandine](https://github.com/grandinetech/grandine) ⭐ 277 | 🐛 143 | 🌐 Rust | 📅 2026-09-16.
   High performance Ethereum consensus client.
 * [discv5](https://github.com/sigp/discv5) ⭐ 194 | 🐛 10 | 🌐 Rust | 📅 2026-08-03.
   Rust implementation of Discovery v5.
@@ -36,9 +36,9 @@ Awesome Ethereum Rust repos
 
 ## Execution
 
-* [Reth](https://github.com/paradigmxyz/reth) ⭐ 5,770 | 🐛 279 | 🌐 Rust | 📅 2026-09-15.
+* [Reth](https://github.com/paradigmxyz/reth) ⭐ 5,771 | 🐛 277 | 🌐 Rust | 📅 2026-09-16.
   Ethereum execution client.
-* [ethrex](https://github.com/lambdaclass/ethrex) ⭐ 896 | 🐛 1,004 | 🌐 Rust | 📅 2026-09-15.
+* [ethrex](https://github.com/lambdaclass/ethrex) ⭐ 896 | 🐛 1,004 | 🌐 Rust | 📅 2026-09-16.
   Lambda Ethereum Rust Execution client.
 * [Akula](https://github.com/akula-bft/akula) ⚠️ Archived.
   Ethereum execution client - deprecated.
@@ -47,12 +47,12 @@ Awesome Ethereum Rust repos
 
 ## Beam Chain
 
-* [ream](https://github.com/ReamLabs/ream) ⭐ 146 | 🐛 34 | 🌐 Rust | 📅 2026-09-13.
+* [ream](https://github.com/ReamLabs/ream) ⭐ 146 | 🐛 33 | 🌐 Rust | 📅 2026-09-13.
   ream: an Ethereum Beam client written in Rust.
 
 ## EVM - Ethereum Virtual Machine
 
-* [Revm](https://github.com/bluealloy/revm/) ⭐ 2,239 | 🐛 94 | 🌐 Rust | 📅 2026-09-14.
+* [Revm](https://github.com/bluealloy/revm/) ⭐ 2,239 | 🐛 95 | 🌐 Rust | 📅 2026-09-16.
   Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity.
 * [create2crunch](https://github.com/0age/create2crunch) ⭐ 540 | 🐛 9 | 🌐 Rust | 📅 2024-08-07.
   A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.
@@ -60,7 +60,7 @@ Awesome Ethereum Rust repos
   Blazingly fast Parallel EVM in Rust.
 * [revmc](https://github.com/paradigmxyz/revmc) ⭐ 289 | 🐛 3 | 🌐 Rust | 📅 2026-09-06.
   JIT and AOT compiler for the Ethereum Virtual Machine, built on Revm.
-* [evm-inspectors](https://github.com/paradigmxyz/evm-inspectors) ⭐ 256 | 🐛 17 | 🌐 Rust | 📅 2026-09-14.
+* [evm-inspectors](https://github.com/paradigmxyz/evm-inspectors) ⭐ 256 | 🐛 15 | 🌐 Rust | 📅 2026-09-15.
   EVM Execution Hooks for revm.
 * [balls](https://github.com/Philogy/balls) ⭐ 195 | 🐛 6 | 🌐 Rust | 📅 2024-11-05.
   A DSL for generating optimal EVM bytecode.
@@ -73,19 +73,19 @@ Awesome Ethereum Rust repos
 
 ## Core
 
-* [Reth](https://github.com/paradigmxyz/reth) ⭐ 5,770 | 🐛 279 | 🌐 Rust | 📅 2026-09-15.
+* [Reth](https://github.com/paradigmxyz/reth) ⭐ 5,771 | 🐛 277 | 🌐 Rust | 📅 2026-09-16.
   Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol.
 * [ethers-rs](https://github.com/gakonst/ethers-rs/) ⚠️ Archived.
   Complete Ethereum library and wallet implementation.
 * [rust-web3](https://github.com/tomusdrw/rust-web3) ⭐ 1,510 | 🐛 105 | 🌐 Rust | 📅 2026-04-27.
   Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
-* [alloy](https://github.com/alloy-rs/alloy) ⭐ 1,329 | 🐛 123 | 🌐 Rust | 📅 2026-09-15.
+* [alloy](https://github.com/alloy-rs/alloy) ⭐ 1,329 | 🐛 124 | 🌐 Rust | 📅 2026-09-16.
   Alloy connects applications to blockchains. Transports, Middleware, and Networks for the Alloy project. Rewrite of ethers-rs.
-* [alloy core](https://github.com/alloy-rs/core) ⭐ 967 | 🐛 31 | 🌐 Rust | 📅 2026-09-14.
+* [alloy core](https://github.com/alloy-rs/core) ⭐ 967 | 🐛 31 | 🌐 Rust | 📅 2026-09-16.
   High-performance, well-tested & documented core libraries for Ethereum.
 * [ethers-reth](https://github.com/SorellaLabs/ethers-reth/) ⭐ 270 | 🐛 2 | 🌐 Rust | 📅 2023-10-18.
   An ether-rs middleware to access reth's db directly, bypassing JSON-RPC.
-* [uint](https://github.com/recmo/uint) ⭐ 225 | 🐛 69 | 🌐 Rust | 📅 2026-09-14.
+* [uint](https://github.com/recmo/uint) ⭐ 225 | 🐛 69 | 🌐 Rust | 📅 2026-09-15.
   Rust Uint crate using const-generics.
 * [trie](https://github.com/alloy-rs/trie) ⭐ 162 | 🐛 7 | 🌐 Rust | 📅 2026-09-10.
   Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles.
@@ -93,7 +93,7 @@ Awesome Ethereum Rust repos
   Fast implementation of Ethereum RLP serialization.
 * [ssz-rs](https://github.com/ralexstokes/ssz-rs) ⭐ 112 | 🐛 17 | 🌐 Rust | 📅 2024-10-04.
   Implementation of Ethereum's ssz.
-* [chains](https://github.com/alloy-rs/chains) ⭐ 109 | 🐛 5 | 🌐 Rust | 📅 2026-09-14.
+* [chains](https://github.com/alloy-rs/chains) ⭐ 109 | 🐛 4 | 🌐 Rust | 📅 2026-09-16.
   Canonical type definitions for EIP-155 chains.
 * [enr](https://github.com/sigp/enr) ⭐ 66 | 🐛 5 | 🌐 Rust | 📅 2025-09-29.
   This crate contains an implementation of an Ethereum Node Record (ENR) as specified by EIP-778.
@@ -105,7 +105,7 @@ Awesome Ethereum Rust repos
   A comprehensive transaction MPT proofs handler for Ethereum / Starknet.
 * [eth-trie.rs](https://github.com/ethereum/eth-trie.rs) ⭐ 10 | 🐛 2 | 🌐 Rust | 📅 2025-06-29.
   Rust implementation of the Modified Patricia Tree (aka Trie).
-* [ssz\_types](https://github.com/sigp/ssz_types) ⭐ 6 | 🐛 10 | 🌐 Rust | 📅 2026-09-11.
+* [ssz\_types](https://github.com/sigp/ssz_types) ⭐ 6 | 🐛 10 | 🌐 Rust | 📅 2026-09-16.
   List, vector and bitfield types for SSZ.
 * [sszb](https://github.com/rakita/sszb) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2021-12-06.
   SSZ with BigEndian notation.
@@ -114,7 +114,7 @@ Awesome Ethereum Rust repos
 
 ## Light Clients
 
-* [Helios](https://github.com/a16z/helios) ⭐ 2,181 | 🐛 97 | 🌐 Rust | 📅 2026-09-14.
+* [Helios](https://github.com/a16z/helios) ⭐ 2,180 | 🐛 98 | 🌐 Rust | 📅 2026-09-14.
   A fast, secure, and portable light client for Ethereum.
 * [Trin](https://github.com/ethereum/trin) ⭐ 441 | 🐛 63 | 🌐 Rust | 📅 2025-09-23.
   An Ethereum portal client: a json-rpc server with nearly instant sync, and low CPU & storage usage.
@@ -125,7 +125,7 @@ Awesome Ethereum Rust repos
 
 ## Scaling
 
-* [c-kzg-4844](https://github.com/ethereum/c-kzg-4844/blob/main/bindings/rust/README.md) ⭐ 174 | 🐛 9 | 🌐 C | 📅 2026-09-01.
+* [c-kzg-4844](https://github.com/ethereum/c-kzg-4844/blob/main/bindings/rust/README.md) ⭐ 174 | 🐛 8 | 🌐 C | 📅 2026-09-15.
   Minimal 4844 version of c-kzg (bindings for Rust).
 * [KZG Ceremony Sequencer](https://github.com/ethereum/kzg-ceremony-sequencer) ⚠️ Archived.
   This implements KZG Ceremony Specification.
@@ -172,9 +172,9 @@ Awesome Ethereum Rust repos
 
 ## ZKP and zkEVM
 
-* [sp1](https://github.com/succinctlabs/sp1) ⭐ 1,733 | 🐛 134 | 🌐 Rust | 📅 2026-09-15.
+* [sp1](https://github.com/succinctlabs/sp1) ⭐ 1,733 | 🐛 135 | 🌐 Rust | 📅 2026-09-15.
   A performant, 100% open-source, contributor-friendly zkVM.
-* [noir-lang](https://github.com/noir-lang/noir) ⭐ 1,401 | 🐛 812 | 🌐 Rust | 📅 2026-09-15.
+* [noir-lang](https://github.com/noir-lang/noir) ⭐ 1,401 | 🐛 808 | 🌐 Rust | 📅 2026-09-16.
   Noir is a domain specific language for zero knowledge proofs.
 * [zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits) ⚠️ Archived.
   Circuits for zkEVM.
@@ -182,7 +182,7 @@ Awesome Ethereum Rust repos
   The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too.
 * [Zeth](https://github.com/risc0/zeth) ⭐ 451 | 🐛 16 | 🌐 Rust | 📅 2026-07-17.
   A "Type 0" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM.
-* [OpenVM](https://github.com/openvm-org/openvm) ⭐ 392 | 🐛 12 | 🌐 Rust | 📅 2026-09-15.
+* [OpenVM](https://github.com/openvm-org/openvm) ⭐ 392 | 🐛 12 | 🌐 Rust | 📅 2026-09-16.
   OpenVM is a performant and modular zkVM framework built for customization and extensibility.
 * [halo2](https://github.com/privacy-scaling-explorations/halo2) ⚠️ Archived.
   Implementation of halo2 zkSNARK proof system.
@@ -206,7 +206,7 @@ Awesome Ethereum Rust repos
 
 ### Arbitrum
 
-* [Stylus](https://github.com/OffchainLabs/stylus-sdk-rs) ⭐ 324 | 🐛 27 | 🌐 Rust | 📅 2026-08-11.
+* [Stylus](https://github.com/OffchainLabs/stylus-sdk-rs) ⭐ 325 | 🐛 27 | 🌐 Rust | 📅 2026-08-11.
   Rust Smart Contracts on Arbitrum.
 
 ### Optimism
@@ -248,11 +248,11 @@ Awesome Ethereum Rust repos
 
 ### Starknet
 
-* [Cairo](https://github.com/starkware-libs/cairo) ⭐ 1,905 | 🐛 209 | 🌐 Rust | 📅 2026-09-15.
+* [Cairo](https://github.com/starkware-libs/cairo) ⭐ 1,905 | 🐛 210 | 🌐 Rust | 📅 2026-09-16.
   Cairo is the first Turing-complete language for creating provable programs for general computation.
 * [Madara](https://github.com/keep-starknet-strange/madara) ⭐ 524 | 🐛 0 | 🌐 Rust | 📅 2026-09-13.
   Madara is a blazing fast Starknet sequencer, based on substrate.
-* [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry) ⭐ 393 | 🐛 186 | 🌐 Rust | 📅 2026-09-15.
+* [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry) ⭐ 393 | 🐛 185 | 🌐 Rust | 📅 2026-09-16.
   Blazing fast toolkit for developing Starknet contracts.
 * [Papyrus](https://github.com/starkware-libs/papyrus) ⚠️ Archived.
   Papyrus is a Starknet full node written.
@@ -271,7 +271,7 @@ Awesome Ethereum Rust repos
 
 ### zkSync
 
-* [zksync-era](https://github.com/matter-labs/zksync-era) ⭐ 3,233 | 🐛 147 | 🌐 Rust | 📅 2026-09-04.
+* [zksync-era](https://github.com/matter-labs/zksync-era) ⭐ 3,233 | 🐛 148 | 🌐 Rust | 📅 2026-09-16.
   zkSync era.
 * [era-sync\_vm](https://github.com/matter-labs/era-sync_vm) ⚠️ Archived.
   Circuit Implementation of zkVM for zkSync Era.
@@ -287,14 +287,14 @@ Awesome Ethereum Rust repos
 
 * [Sway](https://github.com/FuelLabs/sway) ⭐ 61,440 | 🐛 949 | 🌐 Rust | 📅 2026-09-07.
   Sway is a language developed for the Fuel blockchain. It is heavily inspired by Rust and aims to bring modern language development and performance to the blockchain ecosystem.
-* [fuel-core](https://github.com/FuelLabs/fuel-core) ⭐ 56,846 | 🐛 202 | 🌐 Rust | 📅 2026-09-13.
+* [fuel-core](https://github.com/FuelLabs/fuel-core) ⭐ 56,843 | 🐛 202 | 🌐 Rust | 📅 2026-09-13.
   Rust full node implementation of the Fuel v2 protocol.
-* [fuels-rs](https://github.com/FuelLabs/fuels-rs) ⭐ 43,022 | 🐛 75 | 🌐 Rust | 📅 2026-08-29.
+* [fuels-rs](https://github.com/FuelLabs/fuels-rs) ⭐ 43,020 | 🐛 75 | 🌐 Rust | 📅 2026-08-29.
   Rust SDK for Fuel.
 
 ### Aztec
 
-* [aztec-nr](https://github.com/AztecProtocol/aztec-nr) ⭐ 150 | 🐛 24 | 🌐 Noir | 📅 2026-09-15.
+* [aztec-nr](https://github.com/AztecProtocol/aztec-nr) ⭐ 150 | 🐛 24 | 🌐 Noir | 📅 2026-09-16.
   Aztec-nr is a Noir framework for smart contracts on Aztec.
 
 ### Other
@@ -304,18 +304,18 @@ Awesome Ethereum Rust repos
 
 ## dApp Development
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,602 | 🐛 286 | 🌐 Rust | 📅 2026-09-15.
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,606 | 🐛 278 | 🌐 Rust | 📅 2026-09-16.
   Foundry is a blazing fast, portable and modular toolkit for Ethereum application development.
 * [Rivet](https://github.com/paradigmxyz/rivet) ⭐ 928 | 🐛 21 | 🌐 TypeScript | 📅 2025-03-26.
   Developer Wallet & DevTools for Anvil.
-* [solar](https://github.com/paradigmxyz/solar) ⭐ 560 | 🐛 18 | 🌐 Rust | 📅 2026-09-15.
+* [solar](https://github.com/paradigmxyz/solar) ⭐ 563 | 🐛 16 | 🌐 Rust | 📅 2026-09-16.
   Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust.
 
 ## Smart Contracts
 
-* [Fe](https://github.com/ethereum/fe) ⭐ 1,732 | 🐛 132 | 🌐 Rust | 📅 2026-09-14.
+* [Fe](https://github.com/ethereum/fe) ⭐ 1,732 | 🐛 130 | 🌐 Rust | 📅 2026-09-16.
   Emerging smart contract language for the Ethereum blockchain.
-* [Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,615 | 🐛 40 | 🌐 Rust | 📅 2026-09-14.
+* [Heimdall](https://github.com/Jon-Becker/heimdall-rs) ⭐ 1,616 | 🐛 40 | 🌐 Rust | 📅 2026-09-14.
   Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis.
 * [Pyrometer](https://github.com/nascentxyz/pyrometer) ⭐ 797 | 🐛 15 | 🌐 Rust | 📅 2025-02-14.
   A tool for analyzing the security and parameters of a solidity smart contract.
@@ -340,4 +340,4 @@ Awesome Ethereum Rust repos
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
