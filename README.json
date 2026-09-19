@@ -19,7 +19,7 @@
             "open_issues": 284,
             "owner": "libp2p",
             "repo": "rust-libp2p",
-            "stars": 5613,
+            "stars": 5612,
             "topics": [
               "decentralization",
               "libp2p",
@@ -42,11 +42,11 @@
             "id": 139952333,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T18:58:25Z",
+            "last_commit": "2026-09-19T02:24:49Z",
             "open_issues": 554,
             "owner": "sigp",
             "repo": "lighthouse",
-            "stars": 3471,
+            "stars": 3473,
             "topics": [
               "eth2",
               "ethereum",
@@ -71,7 +71,7 @@
             "open_issues": 151,
             "owner": "grandinetech",
             "repo": "grandine",
-            "stars": 277,
+            "stars": 278,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:16.372Z"
@@ -157,11 +157,11 @@
             "id": 537233603,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T18:32:29Z",
-            "open_issues": 286,
+            "last_commit": "2026-09-19T16:43:30Z",
+            "open_issues": 284,
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5777,
+            "stars": 5778,
             "topics": [
               "blockchain",
               "contributor-friendly",
@@ -188,7 +188,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T20:38:51Z",
-            "open_issues": 1006,
+            "open_issues": 1007,
             "owner": "lambdaclass",
             "repo": "ethrex",
             "stars": 897,
@@ -473,11 +473,11 @@
             "id": 537233603,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T18:32:29Z",
-            "open_issues": 286,
+            "last_commit": "2026-09-19T16:43:30Z",
+            "open_issues": 284,
             "owner": "paradigmxyz",
             "repo": "reth",
-            "stars": 5777,
+            "stars": 5778,
             "topics": [
               "blockchain",
               "contributor-friendly",
@@ -507,7 +507,7 @@
             "open_issues": 213,
             "owner": "gakonst",
             "repo": "ethers-rs",
-            "stars": 2506,
+            "stars": 2507,
             "topics": [
               "celo",
               "ethereum",
@@ -550,11 +550,11 @@
             "id": 629243152,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:52:10Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-19T11:02:23Z",
+            "open_issues": 128,
             "owner": "alloy-rs",
             "repo": "alloy",
-            "stars": 1329,
+            "stars": 1331,
             "topics": [
               "blockchain",
               "ethereum"
@@ -916,7 +916,7 @@
             "open_issues": 98,
             "owner": "a16z",
             "repo": "helios",
-            "stars": 2178,
+            "stars": 2181,
             "topics": [
               "ethereum"
             ]
@@ -1435,7 +1435,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T16:39:29Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "succinctlabs",
             "repo": "sp1",
             "stars": 1734,
@@ -1462,8 +1462,8 @@
             "id": 285004577,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T20:45:37Z",
-            "open_issues": 802,
+            "last_commit": "2026-09-19T02:18:14Z",
+            "open_issues": 801,
             "owner": "noir-lang",
             "repo": "noir",
             "stars": 1401,
@@ -2053,7 +2053,7 @@
                 "open_issues": 47,
                 "owner": "scroll-tech",
                 "repo": "scroll-prover",
-                "stars": 682,
+                "stars": 683,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
@@ -2077,11 +2077,11 @@
                 "id": 494059063,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T16:57:48Z",
+                "last_commit": "2026-09-19T19:40:09Z",
                 "open_issues": 210,
                 "owner": "starkware-libs",
                 "repo": "cairo",
-                "stars": 1905,
+                "stars": 1906,
                 "topics": [
                   "cairo",
                   "computational-integrity",
@@ -2337,7 +2337,7 @@
                 "open_issues": 147,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3233,
+                "stars": 3235,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:16.372Z"
@@ -2432,10 +2432,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T11:24:28Z",
-                "open_issues": 948,
+                "open_issues": 949,
                 "owner": "FuelLabs",
                 "repo": "sway",
-                "stars": 61437,
+                "stars": 61436,
                 "topics": [
                   "compiler",
                   "fuel",
@@ -2457,11 +2457,11 @@
                 "id": 290882787,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T00:52:52Z",
-                "open_issues": 203,
+                "last_commit": "2026-09-19T01:05:04Z",
+                "open_issues": 204,
                 "owner": "FuelLabs",
                 "repo": "fuel-core",
-                "stars": 56840,
+                "stars": 56839,
                 "topics": [
                   "blockchain",
                   "fuel"
@@ -2509,7 +2509,7 @@
                 "id": 691083596,
                 "language": "Noir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:00:05Z",
+                "last_commit": "2026-09-19T04:16:16Z",
                 "open_issues": 24,
                 "owner": "AztecProtocol",
                 "repo": "aztec-nr",
@@ -2569,11 +2569,11 @@
             "id": 404320053,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T19:24:43Z",
-            "open_issues": 277,
+            "last_commit": "2026-09-19T07:44:18Z",
+            "open_issues": 275,
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10609,
+            "stars": 10612,
             "topics": [
               "alloy",
               "blockchain",
@@ -2667,8 +2667,8 @@
             "id": 201584176,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T20:43:50Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-18T22:06:10Z",
+            "open_issues": 130,
             "owner": "argotorg",
             "repo": "fe",
             "stars": 1732,
@@ -2692,7 +2692,7 @@
             "open_issues": 40,
             "owner": "Jon-Becker",
             "repo": "heimdall-rs",
-            "stars": 1617,
+            "stars": 1618,
             "topics": [
               "cfg",
               "decoder",
@@ -2803,7 +2803,7 @@
             "open_issues": 8,
             "owner": "alloy-rs",
             "repo": "svm-rs",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "solidity",
               "version-manager"
@@ -2877,7 +2877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:50:06.702Z",
+    "last_updated": "2026-09-19T20:34:29.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ethereum Rust repos",
